@@ -1,0 +1,8 @@
+#invt1 935 Wh 318 W 242.2 V
+#invt2 844 Wh 274 W 243.4 V
+
+Send for SYSID 71753 : 20200228 10:30 - 1779 Wh 592 W 243.4 V 33.253647 C
+Consumption : daily energy  Wh Avg. power  W
+Extended data : v7 0 v8 0 v9  v10 124 v11  v12 365
+
+PVoutput returned: OK 200: Added Status

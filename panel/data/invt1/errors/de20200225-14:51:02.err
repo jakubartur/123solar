@@ -1,0 +1,26 @@
+
+aurora -b -a 2 -c -T -Y6 -l5 -d0 -e /dev/ttyUSB0 
+
+szttyDevice: /dev/ttyUSB0
+yDelay:     5
+yTimeout    0 mS
+yMaxRunTime ~
+devLCKfile: </var/lock/LCK..ttyUSB0>
+devLCKfileNew: </var/lock/LCK..ttyUSB0.11171>
+Got Params
+
+RunTime     20200225-14:51:02 v1.9.3 
+Endian    : Little
+tm_gmtoff : yes
+PID       : 11171
+
+Attempting to get lock on Serial Port /dev/ttyUSB0...
+Checking for lock
+
+LockWaitElapsedTot: 15.000 mS
+
+20200225-14:51:02: aurora: Problem locking serial device /dev/ttyUSB0, couldn't get the lock for 11171, locked by 10972.
+
+devLCKfile: </var/lock/LCK..ttyUSB0>
+devLCKfileNew: </var/lock/LCK..ttyUSB0.11171>
+Clearing Serial Port Lock (11171)... done.

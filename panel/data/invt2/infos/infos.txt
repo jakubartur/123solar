@@ -1,0 +1,13 @@
+
+Part Number: -3G97-
+
+Serial Number: 099864
+
+Firmware: C.0.3.5
+
+Manufacturing Date: Year 14 Week 09
+
+Inverter Version: -- PVI-3.6-OUTD --
+UK - UK G83 -- Transformerless Version -- Photovoltaic Version --
+
+System operating with both strings.

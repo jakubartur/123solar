@@ -1,0 +1,912 @@
+#* 25/02/2020 08:16:12	Starting 123Solar debug (19279)
+
+20200225-09:16:23: aurora: ERROR: Received bad return code (-1 59 35)
+20200225-09:16:27: aurora: ERROR: Received bad return code (-1 59 35)
+20200225-09:16:37: aurora: ERROR: Received bad return code (-1 59 36)
+20200225-09:16:40: aurora: ERROR: Received bad return code (-1 59 35)
+20200225-09:21:22: aurora: No response after 3 attempts
+20200225-09:21:22: aurora: ERROR: Received bad return code (-1 0)
+20200225-09:21:23: aurora: No response after 3 attempts
+20200225-09:21:23: aurora: ERROR: Received bad return code (-1 0)
+#* 25/02/2020 09:24:54	Stopping 123Solar debug (19279)
+
+#* 25/02/2020 09:24:56	Starting 123Solar debug (19908)
+
+20200225-09:26:18: aurora: ERROR: Received bad return code (-1 59 35)
+#* 25/02/2020 09:26:57	Starting 123Solar debug (19973)
+
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Notice:  Undefined variable: CMD_RETURN in /var/www/html/scripts/123solar.php on line 502
+PHP Warning:  include(protocols/zorza polarna_checks.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 538
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna_checks.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 538
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(protocols/zorza polarna.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 121
+PHP Warning:  include(): Failed opening 'protocols/zorza polarna.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 121
+#* 25/02/2020 09:31:52	Starting 123Solar debug (20191)
+
+#* 25/02/2020 09:39:52	Stopping 123Solar debug (20191)
+
+#* 25/02/2020 09:39:54	Starting 123Solar debug (26687)
+
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(../config/pvoutput/temperature/falownik.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(): Failed opening '../config/pvoutput/temperature/falownik.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 458
+#* 25/02/2020 09:44:19	Stopping 123Solar debug (26687)
+
+#* 25/02/2020 09:44:21	Starting 123Solar debug (27710)
+
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(../config/pvoutput/temperature/falownik.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(): Failed opening '../config/pvoutput/temperature/falownik.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 458
+#* 25/02/2020 09:48:47	Stopping 123Solar debug (27710)
+
+#* 25/02/2020 09:48:49	Starting 123Solar debug (29889)
+
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(../config/pvoutput/temperature/falownik.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(): Failed opening '../config/pvoutput/temperature/falownik.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 458
+20200225-09:51:02: aurora: ERROR: Received bad return code (-1 59 5)
+20200225-09:51:03: aurora: No response after 1 attempts
+20200225-09:51:03: aurora: ERROR: Received bad return code (-1 0)
+20200225-09:51:03: aurora: ERROR: Received bad return code (-1 59 5)
+20200225-09:51:03: aurora: ERROR: Received bad return code (-1 59 8)
+20200225-09:51:03: aurora: No response after 1 attempts
+20200225-09:51:03: aurora: ERROR: Received bad return code (-1 0)
+20200225-09:51:03: aurora: No response after 1 attempts
+20200225-09:51:03: aurora: ERROR: Received bad return code (-1 0)
+#* 25/02/2020 09:51:41	Stopping 123Solar debug (29889)
+
+#* 25/02/2020 09:51:43	Starting 123Solar debug (30155)
+
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(../config/pvoutput/temperature/falownik.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(): Failed opening '../config/pvoutput/temperature/falownik.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(../config/pvoutput/temperature/falownik.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(): Failed opening '../config/pvoutput/temperature/falownik.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(../config/pvoutput/temperature/falownik.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(): Failed opening '../config/pvoutput/temperature/falownik.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(../config/pvoutput/temperature/falownik.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(): Failed opening '../config/pvoutput/temperature/falownik.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(../config/pvoutput/temperature/falownik.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(): Failed opening '../config/pvoutput/temperature/falownik.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(../config/pvoutput/temperature/falownik.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(): Failed opening '../config/pvoutput/temperature/falownik.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(../config/pvoutput/temperature/falownik.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(): Failed opening '../config/pvoutput/temperature/falownik.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(../config/pvoutput/temperature/falownik.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(): Failed opening '../config/pvoutput/temperature/falownik.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 458
+#* 25/02/2020 10:38:58	Starting 123Solar debug (1331)
+
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(../config/pvoutput/temperature/falownik.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(): Failed opening '../config/pvoutput/temperature/falownik.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(../config/pvoutput/temperature/falownik.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(): Failed opening '../config/pvoutput/temperature/falownik.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(../config/pvoutput/temperature/falownik.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(): Failed opening '../config/pvoutput/temperature/falownik.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(../config/pvoutput/temperature/falownik.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(): Failed opening '../config/pvoutput/temperature/falownik.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 458
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+ 
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+ 
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+ 
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+ 
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+ 
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+ 
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+ 
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+ 
+PHP Warning:  include(../config/pvoutput/consumption/Nie.php): failed to open stream: No such file or directory in /var/www/html/scripts/123solar.php on line 455
+PHP Warning:  include(): Failed opening '../config/pvoutput/consumption/Nie.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/scripts/123solar.php on line 455
+ 
+#* 25/02/2020 11:41:29	Stopping 123Solar debug (1331)
+
+#* 25/02/2020 11:41:32	Starting 123Solar debug (4666)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#* 25/02/2020 14:50:57	Starting 123Solar on boot debug (10980)
+
+ 
+#* 25/02/2020 14:51:02	Starting 123Solar on boot debug (11185)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20200226-06:30:29: aurora: No response after 6 attempts
+20200226-06:30:29: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:30:32: aurora: No response after 6 attempts
+20200226-06:30:32: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:30:35: aurora: No response after 6 attempts
+20200226-06:30:35: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:30:38: aurora: No response after 6 attempts
+20200226-06:30:38: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:30:41: aurora: No response after 6 attempts
+20200226-06:30:41: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:30:45: aurora: No response after 6 attempts
+20200226-06:30:45: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:30:51: aurora: No response after 6 attempts
+20200226-06:30:51: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:30:54: aurora: No response after 6 attempts
+20200226-06:30:54: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:30:57: aurora: No response after 6 attempts
+20200226-06:30:57: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:31:01: aurora: No response after 6 attempts
+20200226-06:31:01: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:31:04: aurora: No response after 6 attempts
+20200226-06:31:04: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:31:07: aurora: No response after 6 attempts
+20200226-06:31:07: aurora: ERROR: Received bad return code (-1 0)
+ 
+20200226-06:35:33: aurora: No response after 6 attempts
+20200226-06:35:33: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:35:36: aurora: No response after 6 attempts
+20200226-06:35:36: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:35:39: aurora: No response after 6 attempts
+20200226-06:35:39: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:35:42: aurora: No response after 6 attempts
+20200226-06:35:42: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:35:45: aurora: No response after 6 attempts
+20200226-06:35:45: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:35:49: aurora: No response after 6 attempts
+20200226-06:35:49: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:35:55: aurora: No response after 6 attempts
+20200226-06:35:55: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:35:58: aurora: No response after 6 attempts
+20200226-06:35:58: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:36:02: aurora: No response after 6 attempts
+20200226-06:36:02: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:36:05: aurora: No response after 6 attempts
+20200226-06:36:05: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:36:08: aurora: No response after 6 attempts
+20200226-06:36:08: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:36:11: aurora: No response after 6 attempts
+20200226-06:36:11: aurora: ERROR: Received bad return code (-1 0)
+ 
+20200226-06:40:22: aurora: No response after 6 attempts
+20200226-06:40:22: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:40:25: aurora: No response after 6 attempts
+20200226-06:40:25: aurora: ERROR: Received bad return code (-1 0)
+20200226-06:40:28: aurora: ERROR: Received bad return code (-1 59 30)
+20200226-06:40:32: aurora: No response after 6 attempts
+20200226-06:40:32: aurora: ERROR: Received bad return code (-1 0)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#* 26/02/2020 20:01:45	Starting 123Solar debug (1506)
+
+20200227-06:28:53: aurora: No response after 6 attempts
+20200227-06:28:53: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:28:56: aurora: No response after 6 attempts
+20200227-06:28:56: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:29:00: aurora: No response after 6 attempts
+20200227-06:29:00: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:29:03: aurora: No response after 6 attempts
+20200227-06:29:03: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:29:06: aurora: No response after 6 attempts
+20200227-06:29:06: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:29:09: aurora: No response after 6 attempts
+20200227-06:29:09: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:29:16: aurora: No response after 6 attempts
+20200227-06:29:16: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:29:19: aurora: No response after 6 attempts
+20200227-06:29:19: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:29:22: aurora: No response after 6 attempts
+20200227-06:29:22: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:29:25: aurora: No response after 6 attempts
+20200227-06:29:25: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:29:29: aurora: No response after 6 attempts
+20200227-06:29:29: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:29:32: aurora: No response after 6 attempts
+20200227-06:29:32: aurora: ERROR: Received bad return code (-1 0)
+ 
+PHP Notice:  Undefined variable: array2 in /var/www/html/config/pvoutput/extended/extended1.php on line 4
+PHP Notice:  Undefined variable: array2 in /var/www/html/config/pvoutput/extended/extended1.php on line 5
+20200227-06:33:07: aurora: No response after 6 attempts
+20200227-06:33:07: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:33:10: aurora: No response after 6 attempts
+20200227-06:33:10: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:33:13: aurora: No response after 6 attempts
+20200227-06:33:13: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:33:16: aurora: No response after 6 attempts
+20200227-06:33:16: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:33:20: aurora: No response after 6 attempts
+20200227-06:33:20: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:33:23: aurora: No response after 6 attempts
+20200227-06:33:23: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:34:08: aurora: No response after 6 attempts
+20200227-06:34:08: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:34:11: aurora: No response after 6 attempts
+20200227-06:34:11: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:34:14: aurora: No response after 6 attempts
+20200227-06:34:14: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:34:18: aurora: No response after 6 attempts
+20200227-06:34:18: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:34:21: aurora: No response after 6 attempts
+20200227-06:34:21: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:34:24: aurora: No response after 6 attempts
+20200227-06:34:24: aurora: ERROR: Received bad return code (-1 0)
+ 
+PHP Notice:  Undefined variable: array2 in /var/www/html/config/pvoutput/extended/extended1.php on line 4
+PHP Notice:  Undefined variable: array2 in /var/www/html/config/pvoutput/extended/extended1.php on line 5
+20200227-06:38:10: aurora: No response after 6 attempts
+20200227-06:38:10: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:38:14: aurora: No response after 6 attempts
+20200227-06:38:14: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:38:17: aurora: No response after 6 attempts
+20200227-06:38:17: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:38:20: aurora: No response after 6 attempts
+20200227-06:38:20: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:38:23: aurora: No response after 6 attempts
+20200227-06:38:23: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:38:26: aurora: No response after 6 attempts
+20200227-06:38:26: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:39:12: aurora: No response after 6 attempts
+20200227-06:39:12: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:39:15: aurora: No response after 6 attempts
+20200227-06:39:15: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:39:18: aurora: No response after 6 attempts
+20200227-06:39:18: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:39:21: aurora: No response after 6 attempts
+20200227-06:39:21: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:39:25: aurora: No response after 6 attempts
+20200227-06:39:25: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:39:28: aurora: No response after 6 attempts
+20200227-06:39:28: aurora: ERROR: Received bad return code (-1 0)
+ 
+PHP Notice:  Undefined variable: array2 in /var/www/html/config/pvoutput/extended/extended1.php on line 4
+PHP Notice:  Undefined variable: array2 in /var/www/html/config/pvoutput/extended/extended1.php on line 5
+20200227-06:43:08: aurora: No response after 6 attempts
+20200227-06:43:08: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:43:11: aurora: No response after 6 attempts
+20200227-06:43:11: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:43:14: aurora: No response after 6 attempts
+20200227-06:43:14: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:43:18: aurora: No response after 6 attempts
+20200227-06:43:18: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:43:21: aurora: No response after 6 attempts
+20200227-06:43:21: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:43:24: aurora: No response after 6 attempts
+20200227-06:43:24: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:44:09: aurora: No response after 6 attempts
+20200227-06:44:09: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:44:12: aurora: No response after 6 attempts
+20200227-06:44:12: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:44:16: aurora: No response after 6 attempts
+20200227-06:44:16: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:44:19: aurora: No response after 6 attempts
+20200227-06:44:19: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:44:22: aurora: No response after 6 attempts
+20200227-06:44:22: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:44:25: aurora: No response after 6 attempts
+20200227-06:44:25: aurora: ERROR: Received bad return code (-1 0)
+ 
+PHP Notice:  Undefined variable: array2 in /var/www/html/config/pvoutput/extended/extended1.php on line 4
+PHP Notice:  Undefined variable: array2 in /var/www/html/config/pvoutput/extended/extended1.php on line 5
+20200227-06:48:08: aurora: No response after 6 attempts
+20200227-06:48:08: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:48:11: aurora: No response after 6 attempts
+20200227-06:48:11: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:48:14: aurora: No response after 6 attempts
+20200227-06:48:14: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:48:18: aurora: No response after 6 attempts
+20200227-06:48:18: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:48:21: aurora: No response after 6 attempts
+20200227-06:48:21: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:48:24: aurora: No response after 6 attempts
+20200227-06:48:24: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:49:09: aurora: No response after 6 attempts
+20200227-06:49:09: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:49:12: aurora: No response after 6 attempts
+20200227-06:49:12: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:49:16: aurora: No response after 6 attempts
+20200227-06:49:16: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:49:19: aurora: No response after 6 attempts
+20200227-06:49:19: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:49:22: aurora: No response after 6 attempts
+20200227-06:49:22: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:49:25: aurora: No response after 6 attempts
+20200227-06:49:25: aurora: ERROR: Received bad return code (-1 0)
+ 
+PHP Notice:  Undefined variable: array2 in /var/www/html/config/pvoutput/extended/extended1.php on line 4
+PHP Notice:  Undefined variable: array2 in /var/www/html/config/pvoutput/extended/extended1.php on line 5
+20200227-06:53:06: aurora: No response after 6 attempts
+20200227-06:53:06: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:53:09: aurora: No response after 6 attempts
+20200227-06:53:09: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:53:12: aurora: No response after 6 attempts
+20200227-06:53:12: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:53:16: aurora: No response after 6 attempts
+20200227-06:53:16: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:53:19: aurora: No response after 6 attempts
+20200227-06:53:19: aurora: ERROR: Received bad return code (-1 0)
+20200227-06:53:22: aurora: No response after 6 attempts
+20200227-06:53:22: aurora: ERROR: Received bad return code (-1 0)
+ 
+PHP Notice:  Undefined variable: array2 in /var/www/html/config/pvoutput/extended/extended1.php on line 4
+PHP Notice:  Undefined variable: array2 in /var/www/html/config/pvoutput/extended/extended1.php on line 5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20200228-06:26:14: aurora: No response after 6 attempts
+20200228-06:26:14: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:26:17: aurora: No response after 6 attempts
+20200228-06:26:17: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:26:20: aurora: No response after 6 attempts
+20200228-06:26:20: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:26:24: aurora: No response after 6 attempts
+20200228-06:26:24: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:26:27: aurora: No response after 6 attempts
+20200228-06:26:27: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:26:30: aurora: No response after 6 attempts
+20200228-06:26:30: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:26:36: aurora: No response after 6 attempts
+20200228-06:26:36: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:26:40: aurora: No response after 6 attempts
+20200228-06:26:40: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:26:43: aurora: No response after 6 attempts
+20200228-06:26:43: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:26:46: aurora: No response after 6 attempts
+20200228-06:26:46: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:26:49: aurora: No response after 6 attempts
+20200228-06:26:49: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:26:52: aurora: No response after 6 attempts
+20200228-06:26:52: aurora: ERROR: Received bad return code (-1 0)
+ 
+20200228-06:31:08: aurora: No response after 6 attempts
+20200228-06:31:08: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:31:11: aurora: No response after 6 attempts
+20200228-06:31:11: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:31:15: aurora: No response after 6 attempts
+20200228-06:31:15: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:31:18: aurora: No response after 6 attempts
+20200228-06:31:18: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:31:21: aurora: No response after 6 attempts
+20200228-06:31:21: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:31:24: aurora: No response after 6 attempts
+20200228-06:31:24: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:31:31: aurora: No response after 6 attempts
+20200228-06:31:31: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:31:34: aurora: No response after 6 attempts
+20200228-06:31:34: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:31:37: aurora: No response after 6 attempts
+20200228-06:31:37: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:31:40: aurora: No response after 6 attempts
+20200228-06:31:40: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:31:44: aurora: No response after 6 attempts
+20200228-06:31:44: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:31:47: aurora: No response after 6 attempts
+20200228-06:31:47: aurora: ERROR: Received bad return code (-1 0)
+ 
+20200228-06:36:09: aurora: No response after 6 attempts
+20200228-06:36:09: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:36:13: aurora: No response after 6 attempts
+20200228-06:36:13: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:36:16: aurora: No response after 6 attempts
+20200228-06:36:16: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:36:19: aurora: No response after 6 attempts
+20200228-06:36:19: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:36:22: aurora: No response after 6 attempts
+20200228-06:36:22: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:36:26: aurora: No response after 6 attempts
+20200228-06:36:26: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:36:32: aurora: No response after 6 attempts
+20200228-06:36:32: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:36:35: aurora: No response after 6 attempts
+20200228-06:36:35: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:36:38: aurora: No response after 6 attempts
+20200228-06:36:38: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:36:42: aurora: No response after 6 attempts
+20200228-06:36:42: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:36:45: aurora: No response after 6 attempts
+20200228-06:36:45: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:36:48: aurora: No response after 6 attempts
+20200228-06:36:48: aurora: ERROR: Received bad return code (-1 0)
+ 
+20200228-06:41:07: aurora: No response after 6 attempts
+20200228-06:41:07: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:41:11: aurora: No response after 6 attempts
+20200228-06:41:11: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:41:14: aurora: No response after 6 attempts
+20200228-06:41:14: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:41:17: aurora: No response after 6 attempts
+20200228-06:41:17: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:41:20: aurora: No response after 6 attempts
+20200228-06:41:20: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:41:24: aurora: No response after 6 attempts
+20200228-06:41:24: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:41:30: aurora: No response after 6 attempts
+20200228-06:41:30: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:41:33: aurora: No response after 6 attempts
+20200228-06:41:33: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:41:36: aurora: No response after 6 attempts
+20200228-06:41:36: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:41:40: aurora: No response after 6 attempts
+20200228-06:41:40: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:41:43: aurora: No response after 6 attempts
+20200228-06:41:43: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:41:46: aurora: No response after 6 attempts
+20200228-06:41:46: aurora: ERROR: Received bad return code (-1 0)
+ 
+20200228-06:46:10: aurora: No response after 6 attempts
+20200228-06:46:10: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:46:15: aurora: ERROR: Received bad return code (-1 59 7)
+20200228-06:46:18: aurora: No response after 6 attempts
+20200228-06:46:18: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:46:26: aurora: ERROR: Received bad return code (-1 59 29)
+20200228-06:46:29: aurora: No response after 6 attempts
+20200228-06:46:29: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:46:39: aurora: No response after 6 attempts
+20200228-06:46:39: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:46:44: aurora: ERROR: Received bad return code (-1 59 35)
+20200228-06:46:47: aurora: No response after 6 attempts
+20200228-06:46:47: aurora: ERROR: Received bad return code (-1 0)
+20200228-06:46:52: aurora: ERROR: Received bad return code (-1 59 35)
+20200228-06:46:55: aurora: No response after 6 attempts
+20200228-06:46:55: aurora: ERROR: Received bad return code (-1 0)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,2532 @@
+#* 04/04/2020 11:13:38	Stopping 123Solar (1775)
+
+#* 04/04/2020 11:13:11	Starting 123Solar (1775)
+
+#* 04/04/2020 11:10:22	Starting 123Solar (1686)
+
+#* 04/04/2020 11:10:12	Stopping 123Solar (1215)
+
+#* 04/04/2020 11:01:06	Starting 123Solar (1215)
+
+#* 04/04/2020 11:01:05	Stopping 123Solar (5248)
+
+#2 04/04/2020 10:45:32	VGrid high warning 250.82 V on phase 1
+
+#2 04/04/2020 10:00:30	VGrid high warning 250.31 V on phase 1
+
+#2 04/04/2020 09:55:28	VGrid high warning 250.63 V on phase 1
+
+#2 04/04/2020 09:45:17	VGrid high warning 252.01 V on phase 1
+
+#2 04/04/2020 09:40:03	VGrid high warning 251.41 V on phase 1
+
+#2 04/04/2020 07:25:21	Sync. inverter time
+
+#2 04/04/2020 06:30:24 
+Alarm 1:               Bulk UV W011
+Alarm 2:               Bulk UV W011
+Alarm 3:               Bulk UV W011
+Alarm 4:               Bulk UV W011
+
+#2 04/04/2020 06:25:11	Clean up log
+
+#2 04/04/2020 06:15:33	Missing 5' sample
+
+#* 04/04/2020 06:06:04	123Solar awake
+
+#* 03/04/2020 19:25:03	123Solar asleep
+
+#2 03/04/2020 17:06:01	VGrid high warning 251.13 V on phase 1
+
+#2 03/04/2020 17:01:26	VGrid high warning 251.68 V on phase 1
+
+#2 03/04/2020 16:41:05	VGrid high warning 252.94 V on phase 1
+
+#* 03/04/2020 14:52:37	Starting 123Solar (5248)
+
+#* 03/04/2020 14:52:32	Stopping 123Solar (30794)
+
+#2 03/04/2020 14:11:14	VGrid high warning 251.01 V on phase 1
+
+#2 03/04/2020 13:41:05	VGrid high warning 250.15 V on phase 1
+
+#* 03/04/2020 13:11:30	Starting 123Solar (30794)
+
+#* 03/04/2020 13:11:25	Stopping 123Solar (32639)
+
+#2 03/04/2020 07:20:22	Sync. inverter time
+
+#2 03/04/2020 06:20:04	Clean up log
+
+#* 03/04/2020 06:09:10	123Solar awake
+
+#* 02/04/2020 19:23:09	123Solar asleep
+
+#2 02/04/2020 17:49:23	VGrid high warning 250.15 V on phase 1
+
+#2 02/04/2020 17:44:19	VGrid high warning 250.02 V on phase 1
+
+#2 02/04/2020 16:54:29	VGrid high warning 250.44 V on phase 1
+
+#2 02/04/2020 16:49:18	VGrid high warning 251.71 V on phase 1
+
+#2 02/04/2020 16:39:29	VGrid high warning 250.06 V on phase 1
+
+#2 02/04/2020 16:34:10	VGrid high warning 250.68 V on phase 1
+
+#2 02/04/2020 16:29:21	VGrid high warning 250.65 V on phase 1
+
+#2 02/04/2020 16:14:17	VGrid high warning 250.35 V on phase 1
+
+#2 02/04/2020 16:04:11	VGrid high warning 250.31 V on phase 1
+
+#2 02/04/2020 15:59:03	VGrid high warning 250.83 V on phase 1
+
+#2 02/04/2020 15:49:18	VGrid high warning 250.16 V on phase 1
+
+#2 02/04/2020 15:44:36	VGrid high warning 251.17 V on phase 1
+
+#2 02/04/2020 15:39:10	VGrid high warning 252.21 V on phase 1
+
+#2 02/04/2020 15:34:22	VGrid high warning 251.61 V on phase 1
+
+#2 02/04/2020 15:29:30	VGrid high warning 251.18 V on phase 1
+
+#2 02/04/2020 15:14:43	VGrid high warning 250.96 V on phase 1
+
+#2 02/04/2020 15:09:05	VGrid high warning 250.86 V on phase 1
+
+#2 02/04/2020 15:04:20	VGrid high warning 251.48 V on phase 1
+
+#2 02/04/2020 14:59:41	VGrid high warning 251.31 V on phase 1
+
+#2 02/04/2020 14:54:30	VGrid high warning 250.02 V on phase 1
+
+#* 02/04/2020 14:41:38	Starting 123Solar (32639)
+
+#* 02/04/2020 14:41:36	Stopping 123Solar (10273)
+
+#2 02/04/2020 13:54:17	VGrid high warning 250.41 V on phase 1
+
+#2 02/04/2020 13:49:24	VGrid high warning 250.38 V on phase 1
+
+#2 02/04/2020 13:44:19	VGrid high warning 250.9 V on phase 1
+
+#2 02/04/2020 13:24:02	VGrid high warning 250.15 V on phase 1
+
+#* 02/04/2020 10:11:30	Starting 123Solar (10273)
+
+#* 02/04/2020 10:11:27	Stopping 123Solar (28819)
+
+#2 02/04/2020 07:20:21	Sync. inverter time
+
+#2 02/04/2020 06:24:14 
+Alarm 1:               Bulk UV W011
+Alarm 2:               Bulk UV W011
+Alarm 3:               Bulk UV W011
+Alarm 4:               Bulk UV W011
+
+#2 02/04/2020 06:19:45	Clean up log
+
+#2 02/04/2020 06:15:34	Missing 5' sample
+
+#* 02/04/2020 06:11:14	123Solar awake
+
+#* 01/04/2020 19:21:13	123Solar asleep
+
+#2 01/04/2020 17:39:13	VGrid high warning 251.41 V on phase 1
+
+#2 01/04/2020 17:34:05	VGrid high warning 251.37 V on phase 1
+
+#* 01/04/2020 17:33:37	Starting 123Solar (28819)
+
+#* 01/04/2020 17:33:35	Stopping 123Solar (25380)
+
+#2 01/04/2020 17:19:00	VGrid high warning 250.11 V on phase 1
+
+#2 01/04/2020 17:14:08	VGrid high warning 250.68 V on phase 1
+
+#2 01/04/2020 16:54:01	VGrid high warning 250.83 V on phase 1
+
+#2 01/04/2020 16:49:00	VGrid high warning 250.45 V on phase 1
+
+#2 01/04/2020 16:29:00	VGrid high warning 250.98 V on phase 1
+
+#2 01/04/2020 16:19:09	VGrid high warning 250.37 V on phase 1
+
+#2 01/04/2020 16:14:02	VGrid high warning 250.53 V on phase 1
+
+#2 01/04/2020 16:04:02	VGrid high warning 250.58 V on phase 1
+
+#2 01/04/2020 15:59:08	VGrid high warning 252.36 V on phase 1
+
+#* 01/04/2020 15:53:59	Starting 123Solar (25380)
+
+#* 01/04/2020 15:53:57	Stopping 123Solar (9342)
+
+#2 01/04/2020 15:44:15	VGrid high warning 251.18 V on phase 1
+
+#2 01/04/2020 15:29:04	VGrid high warning 250.19 V on phase 1
+
+#2 01/04/2020 15:24:18	VGrid high warning 251.84 V on phase 1
+
+#2 01/04/2020 15:19:19	VGrid high warning 250.51 V on phase 1
+
+#2 01/04/2020 14:59:04	VGrid high warning 251.68 V on phase 1
+
+#2 01/04/2020 14:34:21	VGrid high warning 250.24 V on phase 1
+
+#2 01/04/2020 13:34:18	VGrid high warning 250.01 V on phase 1
+
+#2 01/04/2020 07:25:12	Sync. inverter time
+
+#* 01/04/2020 07:18:19	Starting 123Solar (9342)
+
+#* 01/04/2020 07:18:17	Stopping 123Solar (4391)
+
+#2 01/04/2020 07:14:23	Connection restored
+
+#2 01/04/2020 07:14:00	Connection lost
+
+#2 01/04/2020 07:04:55	Connection restored
+
+#2 01/04/2020 07:04:14	Connection lost
+
+#* 01/04/2020 06:58:36	Starting 123Solar (4391)
+
+#* 01/04/2020 06:58:34	Stopping 123Solar (2161)
+
+#* 01/04/2020 06:32:45	Starting 123Solar (2161)
+
+#* 01/04/2020 06:32:43	Stopping 123Solar (1495)
+
+#2 01/04/2020 06:29:14 
+Alarm 1:               Bulk UV W011
+Alarm 2:               Bulk UV W011
+Alarm 3:               Bulk UV W011
+Alarm 4:               Bulk UV W011
+
+#2 01/04/2020 06:24:56	Clean up log
+
+#2 01/04/2020 06:19:54	Missing 5' sample
+
+#2 01/04/2020 06:15:28	Missing 5' sample
+
+#* 01/04/2020 06:13:57	123Solar awake
+
+#* 01/04/2020 06:11:57	Starting 123Solar (1495)
+
+#2 31/03/2020 07:24:59	Sync. inverter time
+
+#2 31/03/2020 06:24:54	Clean up log
+
+#2 31/03/2020 06:15:40	Missing 5' sample
+
+#* 31/03/2020 06:15:40	123Solar awake
+
+#* 31/03/2020 05:47:40	Starting 123Solar (1389)
+
+#* 31/03/2020 05:47:38	Stopping 123Solar (1269)
+
+#* 31/03/2020 05:43:57	Starting 123Solar (1269)
+
+#* 30/03/2020 19:18:03	123Solar asleep
+
+#2 30/03/2020 16:59:19	VGrid high warning 251.62 V on phase 1
+
+#2 30/03/2020 16:54:25	VGrid high warning 252.26 V on phase 1
+
+#2 30/03/2020 16:49:01	VGrid high warning 250.25 V on phase 1
+
+#2 30/03/2020 16:34:17	VGrid high warning 250.8 V on phase 1
+
+#2 30/03/2020 16:29:16	VGrid high warning 251.7 V on phase 1
+
+#* 30/03/2020 16:22:45	Starting 123Solar (23477)
+
+#* 30/03/2020 16:22:43	Stopping 123Solar (23428)
+
+#* 30/03/2020 16:21:18	Starting 123Solar (23428)
+
+#* 30/03/2020 16:21:16	Stopping 123Solar (23182)
+
+#2 30/03/2020 16:19:27	VGrid high warning 251.48 V on phase 1
+
+#* 30/03/2020 16:10:35	Starting 123Solar (23182)
+
+#* 30/03/2020 16:10:33	Stopping 123Solar (12962)
+
+#2 30/03/2020 12:39:04	VGrid high warning 250.06 V on phase 1
+
+#2 30/03/2020 11:54:17	VGrid high warning 250.68 V on phase 1
+
+#2 30/03/2020 11:49:10	VGrid high warning 250.69 V on phase 1
+
+#2 30/03/2020 11:19:00	VGrid high warning 251.34 V on phase 1
+
+#2 30/03/2020 10:49:10	VGrid high warning 250.53 V on phase 1
+
+#2 30/03/2020 10:24:06	VGrid high warning 250.31 V on phase 1
+
+#2 30/03/2020 07:55:04	Sync. inverter time
+
+#2 30/03/2020 07:09:02 
+Alarm 1:               Bulk UV W011
+Alarm 2:               Bulk UV W011
+Alarm 3:               Bulk UV W011
+Alarm 4:               Bulk UV W011
+
+#2 30/03/2020 06:59:01 
+Alarm 1:               Bulk UV W011
+Alarm 2:               Bulk UV W011
+Alarm 3:               Bulk UV W011
+Alarm 4:               Bulk UV W011
+
+#2 30/03/2020 06:54:52	Clean up log
+
+#2 30/03/2020 06:49:59	Missing 5' sample
+
+#2 30/03/2020 06:45:32	Missing 5' sample
+
+#2 30/03/2020 06:39:55	Missing 5' sample
+
+#2 30/03/2020 06:35:44	Missing 5' sample
+
+#* 30/03/2020 06:35:09	Starting 123Solar (12962)
+
+#* 30/03/2020 06:35:04	Stopping 123Solar (32190)
+
+#* 30/03/2020 06:17:47	123Solar awake
+
+#* 29/03/2020 19:17:46	123Solar asleep
+
+#2 29/03/2020 15:20:13	VGrid high warning 250.15 V on phase 1
+
+#2 29/03/2020 15:10:23	VGrid high warning 250.77 V on phase 1
+
+#2 29/03/2020 15:05:01	VGrid high warning 251.02 V on phase 1
+
+#2 29/03/2020 14:50:20	VGrid high warning 250.22 V on phase 1
+
+#2 29/03/2020 14:45:00	VGrid high warning 251.13 V on phase 1
+
+#2 29/03/2020 14:30:16	VGrid high warning 252.29 V on phase 1
+
+#2 29/03/2020 14:25:10	VGrid high warning 252.58 V on phase 1
+
+#2 29/03/2020 14:20:18	VGrid high warning 252.03 V on phase 1
+
+#2 29/03/2020 14:15:21	VGrid high warning 250.38 V on phase 1
+
+#2 29/03/2020 14:10:09	VGrid high warning 250.62 V on phase 1
+
+#2 29/03/2020 14:00:04	VGrid high warning 252.51 V on phase 1
+
+#2 29/03/2020 13:55:15	VGrid high warning 252.43 V on phase 1
+
+#2 29/03/2020 13:40:15	VGrid high warning 251.23 V on phase 1
+
+#2 29/03/2020 13:35:10	VGrid high warning 250.98 V on phase 1
+
+#2 29/03/2020 13:15:08	VGrid high warning 251.35 V on phase 1
+
+#2 29/03/2020 13:10:29	VGrid high warning 252.05 V on phase 1
+
+#2 29/03/2020 13:05:01	VGrid high warning 252.05 V on phase 1
+
+#2 29/03/2020 12:50:12	VGrid high warning 251.34 V on phase 1
+
+#2 29/03/2020 12:15:25	VGrid high warning 251.28 V on phase 1
+
+#2 29/03/2020 12:10:41	VGrid high warning 250.71 V on phase 1
+
+#2 29/03/2020 11:25:02	VGrid high warning 250.19 V on phase 1
+
+#2 29/03/2020 11:20:43	VGrid high warning 252.37 V on phase 1
+
+#2 29/03/2020 11:15:19	VGrid high warning 251.36 V on phase 1
+
+#2 29/03/2020 10:55:22	VGrid high warning 250.18 V on phase 1
+
+#2 29/03/2020 10:50:22	VGrid high warning 250.57 V on phase 1
+
+#2 29/03/2020 10:10:21	VGrid high warning 250.08 V on phase 1
+
+#2 29/03/2020 10:05:03	VGrid high warning 250.09 V on phase 1
+
+#2 29/03/2020 09:30:34	VGrid high warning 250.9 V on phase 1
+
+#2 29/03/2020 07:50:25	Sync. inverter time
+
+#2 29/03/2020 06:55:36 
+Alarm 1:               Bulk UV W011
+Alarm 2:               Bulk UV W011
+Alarm 3:               Bulk UV W011
+Alarm 4:               Bulk UV W011
+
+#2 29/03/2020 06:50:10	Clean up log
+
+#2 29/03/2020 06:44:39	Missing 5' sample
+
+#2 29/03/2020 06:40:30	Missing 5' sample
+
+#2 29/03/2020 06:29:52	Missing 5' sample
+
+#2 29/03/2020 06:24:58	Missing 5' sample
+
+#2 29/03/2020 06:20:07	Missing 5' sample
+
+#* 29/03/2020 06:20:07	123Solar awake
+
+#* 28/03/2020 18:15:06	123Solar asleep
+
+#2 28/03/2020 16:29:27	VGrid high warning 251.16 V on phase 1
+
+#2 28/03/2020 16:24:17	VGrid high warning 250.04 V on phase 1
+
+#2 28/03/2020 16:09:31	VGrid high warning 250.01 V on phase 1
+
+#2 28/03/2020 16:04:13	VGrid high warning 251.34 V on phase 1
+
+#2 28/03/2020 15:59:36	VGrid high warning 250.34 V on phase 1
+
+#2 28/03/2020 15:49:07	VGrid high warning 250.19 V on phase 1
+
+#2 28/03/2020 15:44:03	VGrid high warning 250.44 V on phase 1
+
+#2 28/03/2020 15:39:05	VGrid high warning 250.95 V on phase 1
+
+#2 28/03/2020 15:34:23	VGrid high warning 250.5 V on phase 1
+
+#2 28/03/2020 15:29:31	VGrid high warning 252.36 V on phase 1
+
+#2 28/03/2020 15:24:17	VGrid high warning 250.44 V on phase 1
+
+#2 28/03/2020 15:19:04	VGrid high warning 251.53 V on phase 1
+
+#2 28/03/2020 15:14:04	VGrid high warning 252.74 V on phase 1
+
+#2 28/03/2020 15:09:15	VGrid high warning 250.6 V on phase 1
+
+#2 28/03/2020 15:04:24	VGrid high warning 252.46 V on phase 1
+
+#2 28/03/2020 14:59:05	VGrid high warning 252.02 V on phase 1
+
+#2 28/03/2020 14:54:01	VGrid high warning 250.43 V on phase 1
+
+#2 28/03/2020 14:44:04	VGrid high warning 251.82 V on phase 1
+
+#2 28/03/2020 14:39:04	VGrid high warning 253.18 V on phase 1
+
+#* 28/03/2020 14:37:26	Starting 123Solar (32190)
+
+#* 28/03/2020 14:37:24	Stopping 123Solar (23994)
+
+#2 28/03/2020 14:34:26	VGrid high warning 251.56 V on phase 1
+
+#2 28/03/2020 14:19:02	VGrid high warning 250.36 V on phase 1
+
+#2 28/03/2020 14:14:06	VGrid high warning 252.88 V on phase 1
+
+#2 28/03/2020 14:09:01	VGrid high warning 250.8 V on phase 1
+
+#2 28/03/2020 13:44:07	VGrid high warning 251.29 V on phase 1
+
+#2 28/03/2020 13:39:13	VGrid high warning 251.97 V on phase 1
+
+#2 28/03/2020 13:19:12	VGrid high warning 250.15 V on phase 1
+
+#2 28/03/2020 12:59:04	VGrid high warning 250.05 V on phase 1
+
+#2 28/03/2020 12:44:04	VGrid high warning 251.57 V on phase 1
+
+#2 28/03/2020 11:24:02	VGrid high warning 250.88 V on phase 1
+
+#2 28/03/2020 11:19:07	VGrid high warning 250.32 V on phase 1
+
+#2 28/03/2020 10:49:15	VGrid high warning 251.09 V on phase 1
+
+#2 28/03/2020 10:04:14	VGrid high warning 250.47 V on phase 1
+
+#2 28/03/2020 09:59:01	VGrid high warning 250.06 V on phase 1
+
+#2 28/03/2020 09:24:08	VGrid high warning 250.95 V on phase 1
+
+#* 28/03/2020 09:21:33	Starting 123Solar (23994)
+
+#* 28/03/2020 09:21:31	Stopping 123Solar (7823)
+
+#2 28/03/2020 09:14:15	VGrid high warning 252.14 V on phase 1
+
+#2 28/03/2020 09:09:22	VGrid high warning 250.4 V on phase 1
+
+#2 28/03/2020 06:35:29	Sync. inverter time
+
+#2 28/03/2020 05:39:05 
+Alarm 1:               Bulk UV W011
+Alarm 2:               Bulk UV W011
+Alarm 3:               Bulk UV W011
+Alarm 4:               Bulk UV W011
+
+#2 28/03/2020 05:34:57	Clean up log
+
+#2 28/03/2020 05:30:06	Missing 5' sample
+
+#* 28/03/2020 05:22:01	123Solar awake
+
+#* 27/03/2020 18:13:00	123Solar asleep
+
+#* 27/03/2020 16:13:00	Starting 123Solar (7823)
+
+#* 27/03/2020 16:12:58	Stopping 123Solar (21235)
+
+#2 27/03/2020 16:05:23	VGrid high warning 251.08 V on phase 1
+
+#2 27/03/2020 16:00:06	VGrid high warning 250.89 V on phase 1
+
+#2 27/03/2020 15:50:03	VGrid high warning 250.53 V on phase 1
+
+#2 27/03/2020 15:40:02	VGrid high warning 251.4 V on phase 1
+
+#2 27/03/2020 15:15:26	VGrid high warning 250.09 V on phase 1
+
+#2 27/03/2020 15:10:01	VGrid high warning 250.84 V on phase 1
+
+#2 27/03/2020 15:05:00	VGrid high warning 250.41 V on phase 1
+
+#2 27/03/2020 15:00:19	VGrid high warning 250.14 V on phase 1
+
+#2 27/03/2020 14:55:04	VGrid high warning 250.45 V on phase 1
+
+#2 27/03/2020 14:45:21	VGrid high warning 250.7 V on phase 1
+
+#2 27/03/2020 14:40:00	VGrid high warning 250.58 V on phase 1
+
+#2 27/03/2020 14:35:22	VGrid high warning 250.7 V on phase 1
+
+#2 27/03/2020 14:25:20	VGrid high warning 250.01 V on phase 1
+
+#2 27/03/2020 14:20:22	VGrid high warning 250.22 V on phase 1
+
+#2 27/03/2020 14:15:01	VGrid high warning 250.81 V on phase 1
+
+#2 27/03/2020 14:10:05	VGrid high warning 251.03 V on phase 1
+
+#2 27/03/2020 14:05:03	VGrid high warning 251.18 V on phase 1
+
+#2 27/03/2020 14:00:07	VGrid high warning 251.49 V on phase 1
+
+#2 27/03/2020 13:55:16	VGrid high warning 250.94 V on phase 1
+
+#2 27/03/2020 13:50:22	VGrid high warning 251.11 V on phase 1
+
+#2 27/03/2020 13:45:24	VGrid high warning 251.37 V on phase 1
+
+#2 27/03/2020 13:40:23	VGrid high warning 250.06 V on phase 1
+
+#2 27/03/2020 13:30:00	VGrid high warning 250.27 V on phase 1
+
+#2 27/03/2020 13:25:00	VGrid high warning 250.71 V on phase 1
+
+#2 27/03/2020 13:20:00	VGrid high warning 251.29 V on phase 1
+
+#2 27/03/2020 13:15:06	VGrid high warning 250.89 V on phase 1
+
+#2 27/03/2020 13:10:00	VGrid high warning 250.14 V on phase 1
+
+#2 27/03/2020 13:05:25	VGrid high warning 250.49 V on phase 1
+
+#2 27/03/2020 12:45:16	VGrid high warning 250.15 V on phase 1
+
+#2 27/03/2020 12:40:21	VGrid high warning 250.43 V on phase 1
+
+#2 27/03/2020 12:15:20	VGrid high warning 250.41 V on phase 1
+
+#2 27/03/2020 12:10:05	VGrid high warning 250.5 V on phase 1
+
+#* 27/03/2020 09:06:28	Starting 123Solar (21235)
+
+#* 27/03/2020 09:06:23	Stopping 123Solar (16884)
+
+#2 27/03/2020 09:00:03	VGrid high warning 250.28 V on phase 1
+
+#2 27/03/2020 06:39:57	Sync. inverter time
+
+#2 27/03/2020 05:40:15	Clean up log
+
+#2 27/03/2020 05:29:57	Missing 5' sample
+
+#* 27/03/2020 05:24:02	123Solar awake
+
+#* 26/03/2020 18:12:01	123Solar asleep
+
+#2 26/03/2020 15:54:08	VGrid high warning 250.34 V on phase 1
+
+#2 26/03/2020 15:29:05	VGrid high warning 250.31 V on phase 1
+
+#* 26/03/2020 15:24:55	Starting 123Solar (16884)
+
+#* 26/03/2020 15:24:52	Stopping 123Solar (17167)
+
+#2 26/03/2020 14:54:02	VGrid high warning 250.27 V on phase 1
+
+#2 26/03/2020 14:49:03	VGrid high warning 250.23 V on phase 1
+
+#2 26/03/2020 14:39:21	VGrid high warning 250.44 V on phase 1
+
+#2 26/03/2020 14:34:24	VGrid high warning 250.03 V on phase 1
+
+#2 26/03/2020 14:24:05	VGrid high warning 251.15 V on phase 1
+
+#2 26/03/2020 14:19:23	VGrid high warning 250.91 V on phase 1
+
+#2 26/03/2020 14:14:21	VGrid high warning 252.64 V on phase 1
+
+#2 26/03/2020 14:09:20	VGrid high warning 252.37 V on phase 1
+
+#2 26/03/2020 14:04:27	VGrid high warning 252.14 V on phase 1
+
+#2 26/03/2020 13:59:14	VGrid high warning 250.89 V on phase 1
+
+#2 26/03/2020 13:54:03	VGrid high warning 251.94 V on phase 1
+
+#2 26/03/2020 13:49:01	VGrid high warning 250.95 V on phase 1
+
+#2 26/03/2020 13:44:20	VGrid high warning 251.51 V on phase 1
+
+#2 26/03/2020 13:39:01	VGrid high warning 251.22 V on phase 1
+
+#2 26/03/2020 13:34:20	VGrid high warning 250.16 V on phase 1
+
+#2 26/03/2020 13:14:22	VGrid high warning 250.27 V on phase 1
+
+#2 26/03/2020 13:04:17	VGrid high warning 250.25 V on phase 1
+
+#2 26/03/2020 09:59:09	VGrid high warning 250.08 V on phase 1
+
+#* 26/03/2020 09:36:57	Starting 123Solar (17167)
+
+#* 26/03/2020 09:36:53	Stopping 123Solar (25503)
+
+#2 26/03/2020 06:45:23	Sync. inverter time
+
+#2 26/03/2020 05:50:34 
+Alarm 1:               Bulk UV W011
+Alarm 2:               Bulk UV W011
+Alarm 3:               Bulk UV W011
+Alarm 4:               Bulk UV W011
+
+#2 26/03/2020 05:45:04	Clean up log
+
+#2 26/03/2020 05:39:55	Missing 5' sample
+
+#2 26/03/2020 05:34:59	Missing 5' sample
+
+#2 26/03/2020 05:30:32	Missing 5' sample
+
+#* 26/03/2020 05:26:06	123Solar awake
+
+#* 25/03/2020 18:10:05	123Solar asleep
+
+#2 25/03/2020 16:17:33	VGrid high warning 250.19 V on phase 1
+
+#2 25/03/2020 16:07:21	VGrid high warning 250.91 V on phase 1
+
+#2 25/03/2020 16:02:29	VGrid high warning 250.89 V on phase 1
+
+#2 25/03/2020 15:57:01	VGrid high warning 251.17 V on phase 1
+
+#2 25/03/2020 15:52:24	VGrid high warning 250.68 V on phase 1
+
+#2 25/03/2020 15:47:26	VGrid high warning 250.65 V on phase 1
+
+#2 25/03/2020 15:42:27	VGrid high warning 250.88 V on phase 1
+
+#2 25/03/2020 15:37:34	VGrid high warning 250.81 V on phase 1
+
+#* 25/03/2020 15:34:11	Starting 123Solar (25503)
+
+#* 25/03/2020 15:34:10	Stopping 123Solar (18635)
+
+#2 25/03/2020 15:22:01	VGrid high warning 250.62 V on phase 1
+
+#2 25/03/2020 15:17:19	VGrid high warning 250.11 V on phase 1
+
+#2 25/03/2020 15:12:22	VGrid high warning 250.27 V on phase 1
+
+#2 25/03/2020 15:07:25	VGrid high warning 251.02 V on phase 1
+
+#2 25/03/2020 14:32:06	VGrid high warning 250.14 V on phase 1
+
+#2 25/03/2020 14:22:05	VGrid high warning 250.24 V on phase 1
+
+#2 25/03/2020 14:17:02	VGrid high warning 250.22 V on phase 1
+
+#2 25/03/2020 14:12:22	VGrid high warning 250.78 V on phase 1
+
+#2 25/03/2020 14:07:04	VGrid high warning 250.98 V on phase 1
+
+#2 25/03/2020 14:02:01	VGrid high warning 250.71 V on phase 1
+
+#2 25/03/2020 13:57:20	VGrid high warning 250.5 V on phase 1
+
+#2 25/03/2020 13:52:23	VGrid high warning 250.03 V on phase 1
+
+#2 25/03/2020 13:47:06	VGrid high warning 250.55 V on phase 1
+
+#2 25/03/2020 13:42:24	VGrid high warning 250.08 V on phase 1
+
+#2 25/03/2020 13:37:06	VGrid high warning 251.26 V on phase 1
+
+#2 25/03/2020 13:32:06	VGrid high warning 250.58 V on phase 1
+
+#2 25/03/2020 13:27:04	VGrid high warning 250.47 V on phase 1
+
+#2 25/03/2020 13:22:19	VGrid high warning 252.22 V on phase 1
+
+#2 25/03/2020 13:17:21	VGrid high warning 251.76 V on phase 1
+
+#2 25/03/2020 13:12:00	VGrid high warning 252.38 V on phase 1
+
+#2 25/03/2020 13:07:19	VGrid high warning 251.68 V on phase 1
+
+#2 25/03/2020 13:02:04	VGrid high warning 252.17 V on phase 1
+
+#2 25/03/2020 12:57:09	VGrid high warning 251.53 V on phase 1
+
+#2 25/03/2020 12:52:00	VGrid high warning 251.53 V on phase 1
+
+#2 25/03/2020 12:47:23	VGrid high warning 250.51 V on phase 1
+
+#2 25/03/2020 12:42:26	VGrid high warning 252.57 V on phase 1
+
+#2 25/03/2020 12:37:20	VGrid high warning 252.93 V on phase 1
+
+#2 25/03/2020 12:32:28	VGrid high warning 252.51 V on phase 1
+
+#2 25/03/2020 12:27:05	VGrid high warning 252.94 V on phase 1
+
+#2 25/03/2020 12:22:07	VGrid high warning 252.95 V on phase 1
+
+#2 25/03/2020 12:17:03	VGrid high warning 251.74 V on phase 1
+
+#2 25/03/2020 12:12:02	VGrid high warning 251.37 V on phase 1
+
+#2 25/03/2020 12:07:20	VGrid high warning 252.65 V on phase 1
+
+#2 25/03/2020 12:02:09	VGrid high warning 252.64 V on phase 1
+
+#2 25/03/2020 11:57:00	VGrid high warning 251.57 V on phase 1
+
+#2 25/03/2020 11:52:25	VGrid high warning 252.69 V on phase 1
+
+#2 25/03/2020 11:47:19	VGrid high warning 250.65 V on phase 1
+
+#2 25/03/2020 11:42:00	VGrid high warning 250.42 V on phase 1
+
+#2 25/03/2020 11:27:05	VGrid high warning 250.08 V on phase 1
+
+#2 25/03/2020 11:22:22	VGrid high warning 250.94 V on phase 1
+
+#2 25/03/2020 11:17:04	VGrid high warning 250.58 V on phase 1
+
+#2 25/03/2020 11:12:20	VGrid high warning 250.12 V on phase 1
+
+#2 25/03/2020 10:27:26	VGrid high warning 250.35 V on phase 1
+
+#2 25/03/2020 10:17:01	VGrid high warning 252.1 V on phase 1
+
+#2 25/03/2020 10:12:00	VGrid high warning 252.23 V on phase 1
+
+#2 25/03/2020 10:07:01	VGrid high warning 252.66 V on phase 1
+
+#2 25/03/2020 10:02:17	VGrid high warning 251.74 V on phase 1
+
+#2 25/03/2020 09:57:05	VGrid high warning 251.5 V on phase 1
+
+#2 25/03/2020 09:52:21	VGrid high warning 251.27 V on phase 1
+
+#2 25/03/2020 09:47:03	VGrid high warning 250.42 V on phase 1
+
+#2 25/03/2020 09:32:11	VGrid high warning 250.18 V on phase 1
+
+#2 25/03/2020 09:27:15	VGrid high warning 250.16 V on phase 1
+
+#2 25/03/2020 09:22:13	VGrid high warning 250.27 V on phase 1
+
+#2 25/03/2020 09:17:00	VGrid high warning 250.58 V on phase 1
+
+#* 25/03/2020 08:48:49	Starting 123Solar (18635)
+
+#* 25/03/2020 08:48:45	Stopping 123Solar (32437)
+
+#2 25/03/2020 06:40:18	Sync. inverter time
+
+#2 25/03/2020 05:45:13 
+Alarm 1:               Bulk UV W011
+Alarm 2:               Bulk UV W011
+Alarm 3:               Bulk UV W011
+Alarm 4:               Bulk UV W011
+
+#2 25/03/2020 05:40:05	Clean up log
+
+#2 25/03/2020 05:35:22	Missing 5' sample
+
+#2 25/03/2020 05:30:10	Missing 5' sample
+
+#* 25/03/2020 05:29:09	123Solar awake
+
+#* 24/03/2020 18:08:08	123Solar asleep
+
+#2 24/03/2020 16:32:22	VGrid high warning 250.32 V on phase 1
+
+#2 24/03/2020 16:27:15	VGrid high warning 250.37 V on phase 1
+
+#2 24/03/2020 16:17:15	VGrid high warning 250.18 V on phase 1
+
+#2 24/03/2020 16:12:21	VGrid high warning 250.43 V on phase 1
+
+#2 24/03/2020 16:07:14	VGrid high warning 251.42 V on phase 1
+
+#2 24/03/2020 16:02:28	VGrid high warning 251.1 V on phase 1
+
+#2 24/03/2020 15:57:23	VGrid high warning 250.8 V on phase 1
+
+#* 24/03/2020 15:52:29	Starting 123Solar (32437)
+
+#* 24/03/2020 15:52:26	Stopping 123Solar (16659)
+
+#2 24/03/2020 15:27:10	VGrid high warning 250.06 V on phase 1
+
+#2 24/03/2020 15:12:01	VGrid high warning 250.57 V on phase 1
+
+#2 24/03/2020 15:07:05	VGrid high warning 250.09 V on phase 1
+
+#2 24/03/2020 14:37:03	VGrid high warning 250.63 V on phase 1
+
+#2 24/03/2020 14:32:16	VGrid high warning 250.35 V on phase 1
+
+#2 24/03/2020 14:27:00	VGrid high warning 250.03 V on phase 1
+
+#2 24/03/2020 13:57:01	VGrid high warning 252.87 V on phase 1
+
+#2 24/03/2020 13:52:06	VGrid high warning 251.87 V on phase 1
+
+#2 24/03/2020 13:47:17	VGrid high warning 251.27 V on phase 1
+
+#2 24/03/2020 13:42:09	VGrid high warning 250.71 V on phase 1
+
+#2 24/03/2020 13:37:13	VGrid high warning 251.84 V on phase 1
+
+#2 24/03/2020 13:32:13	VGrid high warning 250.19 V on phase 1
+
+#2 24/03/2020 13:07:10	VGrid high warning 250.28 V on phase 1
+
+#2 24/03/2020 13:02:01	VGrid high warning 250.45 V on phase 1
+
+#2 24/03/2020 12:47:06	VGrid high warning 251.16 V on phase 1
+
+#2 24/03/2020 12:42:00	VGrid high warning 250.08 V on phase 1
+
+#2 24/03/2020 12:37:01	VGrid high warning 250.34 V on phase 1
+
+#2 24/03/2020 12:32:03	VGrid high warning 250.8 V on phase 1
+
+#2 24/03/2020 12:27:05	VGrid high warning 250.43 V on phase 1
+
+#2 24/03/2020 12:22:04	VGrid high warning 251.82 V on phase 1
+
+#2 24/03/2020 12:17:10	VGrid high warning 250.8 V on phase 1
+
+#2 24/03/2020 12:12:00	VGrid high warning 250.58 V on phase 1
+
+#2 24/03/2020 12:07:18	VGrid high warning 251.17 V on phase 1
+
+#2 24/03/2020 12:02:02	VGrid high warning 250.88 V on phase 1
+
+#2 24/03/2020 11:57:16	VGrid high warning 250.97 V on phase 1
+
+#2 24/03/2020 11:52:00	VGrid high warning 250.78 V on phase 1
+
+#2 24/03/2020 11:47:13	VGrid high warning 250.78 V on phase 1
+
+#2 24/03/2020 11:37:11	VGrid high warning 250.69 V on phase 1
+
+#2 24/03/2020 11:22:02	VGrid high warning 250.56 V on phase 1
+
+#2 24/03/2020 10:52:12	VGrid high warning 250.68 V on phase 1
+
+#2 24/03/2020 10:47:06	VGrid high warning 250.76 V on phase 1
+
+#2 24/03/2020 10:42:06	VGrid high warning 251.01 V on phase 1
+
+#2 24/03/2020 10:37:01	VGrid high warning 251.14 V on phase 1
+
+#2 24/03/2020 10:32:12	VGrid high warning 250.35 V on phase 1
+
+#2 24/03/2020 10:27:03	VGrid high warning 250.4 V on phase 1
+
+#2 24/03/2020 10:22:14	VGrid high warning 252.47 V on phase 1
+
+#2 24/03/2020 10:17:08	VGrid high warning 252.28 V on phase 1
+
+#2 24/03/2020 10:12:06	VGrid high warning 252.55 V on phase 1
+
+#2 24/03/2020 10:07:09	VGrid high warning 252.11 V on phase 1
+
+#2 24/03/2020 10:02:16	VGrid high warning 252.8 V on phase 1
+
+#2 24/03/2020 09:57:15	VGrid high warning 250.98 V on phase 1
+
+#2 24/03/2020 09:52:01	VGrid high warning 251.54 V on phase 1
+
+#2 24/03/2020 09:47:09	VGrid high warning 252.15 V on phase 1
+
+#2 24/03/2020 09:42:04	VGrid high warning 252.04 V on phase 1
+
+#2 24/03/2020 09:37:10	VGrid high warning 251.07 V on phase 1
+
+#2 24/03/2020 08:40:03	Missing 5' sample
+
+#* 24/03/2020 08:39:33	Starting 123Solar (16659)
+
+#* 24/03/2020 08:39:27	Stopping 123Solar (15308)
+
+#2 24/03/2020 07:40:03	Sync. inverter time
+
+#2 24/03/2020 05:40:46	Clean up log
+
+#2 24/03/2020 05:35:27	Missing 5' sample
+
+#* 24/03/2020 05:31:16	123Solar awake
+
+#* 23/03/2020 18:07:15	123Solar asleep
+
+#* 23/03/2020 17:02:56	Starting 123Solar (15308)
+
+#* 23/03/2020 17:02:54	Stopping 123Solar (6477)
+
+#2 23/03/2020 16:29:06	VGrid high warning 250.3 V on phase 1
+
+#2 23/03/2020 16:24:03	VGrid high warning 250.12 V on phase 1
+
+#2 23/03/2020 16:19:01	VGrid high warning 250.31 V on phase 1
+
+#2 23/03/2020 16:14:04	VGrid high warning 251.22 V on phase 1
+
+#2 23/03/2020 16:04:04	VGrid high warning 250.51 V on phase 1
+
+#2 23/03/2020 14:59:08	VGrid high warning 250.44 V on phase 1
+
+#2 23/03/2020 14:54:04	VGrid high warning 250.12 V on phase 1
+
+#2 23/03/2020 14:49:00	VGrid high warning 251.27 V on phase 1
+
+#2 23/03/2020 14:29:16	VGrid high warning 251.29 V on phase 1
+
+#2 23/03/2020 14:24:06	VGrid high warning 250.05 V on phase 1
+
+#2 23/03/2020 14:09:00	VGrid high warning 251.03 V on phase 1
+
+#2 23/03/2020 14:04:03	VGrid high warning 252.58 V on phase 1
+
+#2 23/03/2020 13:59:09	VGrid high warning 252.57 V on phase 1
+
+#2 23/03/2020 13:54:05	VGrid high warning 251.58 V on phase 1
+
+#2 23/03/2020 13:49:07	VGrid high warning 250.84 V on phase 1
+
+#2 23/03/2020 13:39:11	VGrid high warning 250.34 V on phase 1
+
+#2 23/03/2020 12:54:12	VGrid high warning 250.22 V on phase 1
+
+#2 23/03/2020 12:44:15	VGrid high warning 250.05 V on phase 1
+
+#2 23/03/2020 12:39:13	VGrid high warning 250.12 V on phase 1
+
+#2 23/03/2020 11:59:16	VGrid high warning 251.37 V on phase 1
+
+#2 23/03/2020 11:44:12	VGrid high warning 250.55 V on phase 1
+
+#2 23/03/2020 11:39:03	VGrid high warning 250.18 V on phase 1
+
+#2 23/03/2020 11:19:13	VGrid high warning 250.45 V on phase 1
+
+#2 23/03/2020 11:09:15	VGrid high warning 250.09 V on phase 1
+
+#2 23/03/2020 10:39:13	VGrid high warning 250.57 V on phase 1
+
+#2 23/03/2020 10:34:04	VGrid high warning 250.4 V on phase 1
+
+#2 23/03/2020 10:29:14	VGrid high warning 250.68 V on phase 1
+
+#2 23/03/2020 10:24:01	VGrid high warning 250.17 V on phase 1
+
+#2 23/03/2020 10:19:14	VGrid high warning 250.17 V on phase 1
+
+#2 23/03/2020 10:14:15	VGrid high warning 250.27 V on phase 1
+
+#2 23/03/2020 10:04:02	VGrid high warning 251.82 V on phase 1
+
+#2 23/03/2020 09:49:11	VGrid high warning 251.54 V on phase 1
+
+#2 23/03/2020 09:39:06	VGrid high warning 250.87 V on phase 1
+
+#2 23/03/2020 06:45:05	Sync. inverter time
+
+#2 23/03/2020 05:44:56	Clean up log
+
+#2 23/03/2020 05:40:22	Missing 5' sample
+
+#2 23/03/2020 05:35:29	Missing 5' sample
+
+#* 23/03/2020 05:33:02	123Solar awake
+
+#* 22/03/2020 18:05:01	123Solar asleep
+
+#* 22/03/2020 18:00:10	Starting 123Solar (6477)
+
+#* 22/03/2020 18:00:08	Stopping 123Solar (4107)
+
+#2 22/03/2020 16:25:02	VGrid high warning 250.38 V on phase 1
+
+#2 22/03/2020 16:15:45	VGrid high warning 250.5 V on phase 1
+
+#2 22/03/2020 16:10:07	Missing 5' sample
+
+#* 22/03/2020 16:10:07	Starting 123Solar (4107)
+
+#* 22/03/2020 16:10:05	Stopping 123Solar (6897)
+
+#2 22/03/2020 15:30:07	VGrid high warning 250.18 V on phase 1
+
+#2 22/03/2020 14:35:05	VGrid high warning 251.91 V on phase 1
+
+#2 22/03/2020 14:20:02	VGrid high warning 250.98 V on phase 1
+
+#2 22/03/2020 14:15:07	VGrid high warning 250.9 V on phase 1
+
+#2 22/03/2020 14:10:00	VGrid high warning 250.73 V on phase 1
+
+#2 22/03/2020 13:50:07	VGrid high warning 251.67 V on phase 1
+
+#2 22/03/2020 13:45:14	VGrid high warning 252.26 V on phase 1
+
+#2 22/03/2020 13:40:08	VGrid high warning 250.67 V on phase 1
+
+#2 22/03/2020 13:35:05	VGrid high warning 250.94 V on phase 1
+
+#2 22/03/2020 13:30:12	VGrid high warning 251.53 V on phase 1
+
+#2 22/03/2020 13:25:12	VGrid high warning 251.75 V on phase 1
+
+#2 22/03/2020 13:20:04	VGrid high warning 250.48 V on phase 1
+
+#2 22/03/2020 13:00:13	VGrid high warning 250.54 V on phase 1
+
+#2 22/03/2020 12:50:00	VGrid high warning 250.37 V on phase 1
+
+#2 22/03/2020 12:25:15	VGrid high warning 250.93 V on phase 1
+
+#2 22/03/2020 12:10:04	VGrid high warning 250.22 V on phase 1
+
+#2 22/03/2020 12:05:02	VGrid high warning 250.62 V on phase 1
+
+#2 22/03/2020 11:45:01	VGrid high warning 250.45 V on phase 1
+
+#2 22/03/2020 11:40:07	VGrid high warning 250.03 V on phase 1
+
+#2 22/03/2020 10:30:10	VGrid high warning 251.26 V on phase 1
+
+#2 22/03/2020 10:10:05	VGrid high warning 250.3 V on phase 1
+
+#2 22/03/2020 09:55:05	VGrid high warning 250.29 V on phase 1
+
+#2 22/03/2020 06:45:04	Sync. inverter time
+
+#2 22/03/2020 05:50:08 
+Alarm 1:               Bulk UV W011
+Alarm 2:               Bulk UV W011
+Alarm 3:               Bulk UV W011
+Alarm 4:               Bulk UV W011
+
+#2 22/03/2020 05:45:03	Clean up log
+
+#2 22/03/2020 05:40:34	Missing 5' sample
+
+#2 22/03/2020 05:35:09	Missing 5' sample
+
+#* 22/03/2020 05:35:09	123Solar awake
+
+#* 21/03/2020 18:03:08	123Solar asleep
+
+#2 21/03/2020 15:01:11	VGrid high warning 252.55 V on phase 1
+
+#2 21/03/2020 14:16:05	VGrid high warning 250.88 V on phase 1
+
+#2 21/03/2020 13:31:14	VGrid high warning 250.9 V on phase 1
+
+#2 21/03/2020 13:26:10	VGrid high warning 251.23 V on phase 1
+
+#* 21/03/2020 12:47:18	Starting 123Solar (6897)
+
+#* 21/03/2020 12:47:16	Stopping 123Solar (7378)
+
+#2 21/03/2020 09:50:15	Connection restored
+
+#2 21/03/2020 09:45:50	Connection lost
+
+#2 21/03/2020 09:44:56	Missing 5' sample
+
+#2 21/03/2020 09:40:48	Connection lost
+
+#2 21/03/2020 09:39:57	Missing 5' sample
+
+#2 21/03/2020 09:35:05	Connection lost
+
+#2 21/03/2020 09:35:05	Missing 5' sample
+
+#2 21/03/2020 09:30:16	Connection lost
+
+#2 21/03/2020 09:30:16	Missing 5' sample
+
+#2 21/03/2020 09:25:09	Connection lost
+
+#2 21/03/2020 09:25:09	Missing 5' sample
+
+#2 21/03/2020 09:20:02	Connection lost
+
+#2 21/03/2020 09:20:02	Missing 5' sample
+
+#2 21/03/2020 09:15:00	Connection lost
+
+#2 21/03/2020 09:15:00	Missing 5' sample
+
+#2 21/03/2020 09:10:06	Connection lost
+
+#2 21/03/2020 09:10:06	Missing 5' sample
+
+#2 21/03/2020 09:05:11	Connection lost
+
+#2 21/03/2020 09:05:11	Missing 5' sample
+
+#2 21/03/2020 09:00:45	Connection lost
+
+#2 21/03/2020 08:59:52	Missing 5' sample
+
+#2 21/03/2020 08:55:13	Connection lost
+
+#2 21/03/2020 08:55:13	Missing 5' sample
+
+#2 21/03/2020 08:50:18	Connection lost
+
+#2 21/03/2020 08:50:18	Missing 5' sample
+
+#2 21/03/2020 08:45:18	Connection lost
+
+#2 21/03/2020 08:45:18	Missing 5' sample
+
+#2 21/03/2020 08:40:49	Connection lost
+
+#2 21/03/2020 08:39:52	Missing 5' sample
+
+#2 21/03/2020 07:05:23	Sync. inverter time
+
+#* 21/03/2020 06:29:30	Starting 123Solar (7378)
+
+#* 21/03/2020 06:29:28	Stopping 123Solar (5939)
+
+#* 21/03/2020 06:09:37	Starting 123Solar (5939)
+
+#* 21/03/2020 06:09:35	Stopping 123Solar (29798)
+
+#2 21/03/2020 06:05:06	Clean up log
+
+#2 21/03/2020 06:04:09 
+Alarm 1:               Bulk UV W011
+Alarm 2:               Bulk UV W011
+Alarm 3:               Bulk UV W011
+Alarm 4:               Bulk UV W011
+
+#2 21/03/2020 05:55:33	Missing 5' sample
+
+#2 21/03/2020 05:50:40	Missing 5' sample
+
+#2 21/03/2020 05:45:45	Missing 5' sample
+
+#2 21/03/2020 05:40:35	Missing 5' sample
+
+#* 21/03/2020 05:38:08	123Solar awake
+
+#* 20/03/2020 18:02:07	123Solar asleep
+
+#2 20/03/2020 17:59:05	Riso warning 6.6 Mohm
+
+#2 20/03/2020 17:54:07	Riso warning 6.6 Mohm
+
+#2 20/03/2020 17:49:17	Riso warning 6.6 Mohm
+
+#2 20/03/2020 17:44:00	Riso warning 6.6 Mohm
+
+#2 20/03/2020 17:39:08	Riso warning 6.6 Mohm
+
+#2 20/03/2020 17:34:13	Riso warning 6.6 Mohm
+
+#2 20/03/2020 17:29:16	Riso warning 6.6 Mohm
+
+#2 20/03/2020 17:24:06	Riso warning 6.6 Mohm
+
+#2 20/03/2020 17:19:07	Riso warning 6.6 Mohm
+
+#2 20/03/2020 17:14:02	Riso warning 6.6 Mohm
+
+#2 20/03/2020 17:09:14	Riso warning 6.6 Mohm
+
+#2 20/03/2020 17:04:07	Riso warning 6.6 Mohm
+
+#2 20/03/2020 16:59:01	Riso warning 6.6 Mohm
+
+#2 20/03/2020 16:54:12	Riso warning 6.6 Mohm
+
+#2 20/03/2020 16:49:16	Riso warning 6.6 Mohm
+
+#2 20/03/2020 16:44:15	Riso warning 6.6 Mohm
+
+#2 20/03/2020 16:39:03	Riso warning 6.6 Mohm
+
+#2 20/03/2020 16:34:06	Riso warning 6.6 Mohm
+
+#2 20/03/2020 16:29:11	Riso warning 6.6 Mohm
+
+#2 20/03/2020 16:24:03	Riso warning 6.6 Mohm
+
+#2 20/03/2020 16:19:10	Riso warning 6.6 Mohm
+
+#2 20/03/2020 16:14:10	Riso warning 6.6 Mohm
+
+#2 20/03/2020 16:09:07	Riso warning 6.6 Mohm
+
+#2 20/03/2020 16:04:19	Riso warning 6.6 Mohm
+
+#2 20/03/2020 15:59:10	Riso warning 6.6 Mohm
+
+#2 20/03/2020 15:54:07	Riso warning 6.6 Mohm
+
+#2 20/03/2020 15:49:14	Riso warning 6.6 Mohm
+
+#2 20/03/2020 15:44:11	Riso warning 6.6 Mohm
+
+#2 20/03/2020 15:39:05	Riso warning 6.6 Mohm
+
+#2 20/03/2020 15:34:02	Riso warning 6.6 Mohm
+
+#2 20/03/2020 15:29:05	Riso warning 6.6 Mohm
+
+#2 20/03/2020 15:24:10	Riso warning 6.6 Mohm
+
+#2 20/03/2020 15:19:08	Riso warning 6.6 Mohm
+
+#2 20/03/2020 15:14:13	Riso warning 6.6 Mohm
+
+#2 20/03/2020 15:09:03	Riso warning 6.6 Mohm
+
+#2 20/03/2020 15:04:08	Riso warning 6.6 Mohm
+
+#2 20/03/2020 14:59:09	Riso warning 6.6 Mohm
+
+#2 20/03/2020 14:54:10	Riso warning 6.6 Mohm
+
+#2 20/03/2020 14:49:05	Riso warning 6.6 Mohm
+
+#2 20/03/2020 14:44:15	Riso warning 6.6 Mohm
+
+#2 20/03/2020 14:44:15	VGrid high warning 250.64 V on phase 1
+
+#2 20/03/2020 14:39:08	Riso warning 6.6 Mohm
+
+#2 20/03/2020 14:39:08	VGrid high warning 250.75 V on phase 1
+
+#2 20/03/2020 14:34:14	Riso warning 6.6 Mohm
+
+#2 20/03/2020 14:29:02	Riso warning 6.6 Mohm
+
+#2 20/03/2020 14:24:06	Riso warning 6.6 Mohm
+
+#2 20/03/2020 14:19:13	Riso warning 6.6 Mohm
+
+#2 20/03/2020 14:14:10	Riso warning 6.6 Mohm
+
+#2 20/03/2020 14:09:01	Riso warning 6.6 Mohm
+
+#2 20/03/2020 14:04:02	Riso warning 6.6 Mohm
+
+#2 20/03/2020 13:59:04	Riso warning 6.6 Mohm
+
+#2 20/03/2020 13:54:13	Riso warning 6.6 Mohm
+
+#2 20/03/2020 13:49:12	Riso warning 6.6 Mohm
+
+#2 20/03/2020 13:44:07	Riso warning 6.6 Mohm
+
+#2 20/03/2020 13:39:13	Riso warning 6.6 Mohm
+
+#2 20/03/2020 13:34:02	Riso warning 6.6 Mohm
+
+#2 20/03/2020 13:29:08	Riso warning 6.6 Mohm
+
+#2 20/03/2020 13:24:12	Riso warning 6.6 Mohm
+
+#2 20/03/2020 13:19:13	Riso warning 6.6 Mohm
+
+#2 20/03/2020 13:14:17	Riso warning 6.6 Mohm
+
+#2 20/03/2020 13:09:07	Riso warning 6.6 Mohm
+
+#2 20/03/2020 13:04:06	Riso warning 6.6 Mohm
+
+#2 20/03/2020 13:04:06	VGrid high warning 250.23 V on phase 1
+
+#2 20/03/2020 12:59:04	Riso warning 6.6 Mohm
+
+#2 20/03/2020 12:54:09	Riso warning 6.6 Mohm
+
+#2 20/03/2020 12:49:11	Riso warning 6.6 Mohm
+
+#2 20/03/2020 12:44:10	Riso warning 6.6 Mohm
+
+#2 20/03/2020 12:39:13	Riso warning 6.6 Mohm
+
+#2 20/03/2020 12:34:01	Riso warning 6.6 Mohm
+
+#2 20/03/2020 12:29:09	Riso warning 6.6 Mohm
+
+#2 20/03/2020 12:24:01	Riso warning 6.6 Mohm
+
+#2 20/03/2020 12:19:02	Riso warning 6.6 Mohm
+
+#2 20/03/2020 12:14:09	Riso warning 6.6 Mohm
+
+#2 20/03/2020 12:09:06	Riso warning 6.6 Mohm
+
+#2 20/03/2020 12:04:07	Riso warning 6.6 Mohm
+
+#2 20/03/2020 11:59:07	Riso warning 6.6 Mohm
+
+#2 20/03/2020 11:54:01	Riso warning 6.6 Mohm
+
+#2 20/03/2020 11:54:01	VGrid high warning 250.93 V on phase 1
+
+#2 20/03/2020 11:49:17	Riso warning 6.6 Mohm
+
+#2 20/03/2020 11:44:03	Riso warning 6.6 Mohm
+
+#2 20/03/2020 11:39:10	Riso warning 6.6 Mohm
+
+#2 20/03/2020 11:39:10	VGrid high warning 250.89 V on phase 1
+
+#2 20/03/2020 11:34:12	Riso warning 6.6 Mohm
+
+#2 20/03/2020 11:29:00	Riso warning 6.6 Mohm
+
+#2 20/03/2020 11:29:00	VGrid high warning 252.33 V on phase 1
+
+#2 20/03/2020 11:24:03	Riso warning 6.6 Mohm
+
+#2 20/03/2020 11:24:03	VGrid high warning 251.76 V on phase 1
+
+#2 20/03/2020 11:19:12	Riso warning 6.6 Mohm
+
+#2 20/03/2020 11:19:12	VGrid high warning 252.05 V on phase 1
+
+#2 20/03/2020 11:14:05	Riso warning 6.6 Mohm
+
+#2 20/03/2020 11:14:05	VGrid high warning 251.47 V on phase 1
+
+#2 20/03/2020 11:09:14	Riso warning 6.6 Mohm
+
+#2 20/03/2020 11:09:14	VGrid high warning 250.68 V on phase 1
+
+#2 20/03/2020 11:04:17	Riso warning 6.6 Mohm
+
+#2 20/03/2020 11:04:17	VGrid high warning 250.37 V on phase 1
+
+#2 20/03/2020 10:59:08	Riso warning 6.6 Mohm
+
+#2 20/03/2020 10:54:02	Riso warning 6.6 Mohm
+
+#2 20/03/2020 10:54:02	VGrid high warning 251.55 V on phase 1
+
+#2 20/03/2020 10:49:04	Riso warning 6.6 Mohm
+
+#2 20/03/2020 10:49:04	VGrid high warning 251.23 V on phase 1
+
+#2 20/03/2020 10:44:18	Riso warning 6.6 Mohm
+
+#2 20/03/2020 10:44:18	VGrid high warning 250.45 V on phase 1
+
+#2 20/03/2020 10:39:12	Riso warning 6.6 Mohm
+
+#2 20/03/2020 10:39:12	VGrid high warning 251.13 V on phase 1
+
+#2 20/03/2020 10:34:11	Riso warning 6.6 Mohm
+
+#2 20/03/2020 10:34:11	VGrid high warning 250.83 V on phase 1
+
+#2 20/03/2020 10:29:01	Riso warning 6.6 Mohm
+
+#2 20/03/2020 10:29:01	VGrid high warning 252.36 V on phase 1
+
+#2 20/03/2020 10:24:05	Riso warning 6.6 Mohm
+
+#2 20/03/2020 10:19:02	Riso warning 6.6 Mohm
+
+#2 20/03/2020 10:19:02	VGrid high warning 252.66 V on phase 1
+
+#2 20/03/2020 10:14:00	Riso warning 6.6 Mohm
+
+#2 20/03/2020 10:14:00	VGrid high warning 251.77 V on phase 1
+
+#2 20/03/2020 10:09:01	Riso warning 6.6 Mohm
+
+#2 20/03/2020 10:09:01	VGrid high warning 252.26 V on phase 1
+
+#2 20/03/2020 10:04:10	Riso warning 6.6 Mohm
+
+#2 20/03/2020 10:04:10	VGrid high warning 252.59 V on phase 1
+
+#2 20/03/2020 09:59:03	Riso warning 6.6 Mohm
+
+#2 20/03/2020 09:59:03	VGrid high warning 252.69 V on phase 1
+
+#2 20/03/2020 09:54:04	Riso warning 6.6 Mohm
+
+#2 20/03/2020 09:54:04	VGrid high warning 252.87 V on phase 1
+
+#2 20/03/2020 09:49:02	Riso warning 6.6 Mohm
+
+#2 20/03/2020 09:49:02	VGrid high warning 251.78 V on phase 1
+
+#2 20/03/2020 09:44:09	Riso warning 6.6 Mohm
+
+#2 20/03/2020 09:44:09	VGrid high warning 252.1 V on phase 1
+
+#2 20/03/2020 09:39:07	Riso warning 6.6 Mohm
+
+#2 20/03/2020 09:39:07	VGrid high warning 251.85 V on phase 1
+
+#2 20/03/2020 09:34:06	Riso warning 6.6 Mohm
+
+#2 20/03/2020 09:34:06	VGrid high warning 251.91 V on phase 1
+
+#2 20/03/2020 09:29:08	Riso warning 6.6 Mohm
+
+#2 20/03/2020 09:29:08	VGrid high warning 251.85 V on phase 1
+
+#2 20/03/2020 09:24:09	Riso warning 6.6 Mohm
+
+#2 20/03/2020 09:19:00	Riso warning 6.6 Mohm
+
+#2 20/03/2020 09:19:00	VGrid high warning 250.54 V on phase 1
+
+#2 20/03/2020 09:14:06	Riso warning 6.6 Mohm
+
+#2 20/03/2020 09:14:06	VGrid high warning 251.04 V on phase 1
+
+#2 20/03/2020 09:09:06	Riso warning 6.6 Mohm
+
+#2 20/03/2020 09:09:06	VGrid high warning 250.22 V on phase 1
+
+#2 20/03/2020 09:04:02	Riso warning 6.6 Mohm
+
+#2 20/03/2020 09:04:02	VGrid high warning 250.87 V on phase 1
+
+#2 20/03/2020 08:59:05	Riso warning 6.6 Mohm
+
+#2 20/03/2020 08:59:05	VGrid high warning 250.37 V on phase 1
+
+#2 20/03/2020 08:54:07	Riso warning 6.6 Mohm
+
+#2 20/03/2020 08:54:07	VGrid high warning 250.53 V on phase 1
+
+#2 20/03/2020 08:49:00	Riso warning 6.6 Mohm
+
+#2 20/03/2020 08:44:08	Riso warning 6.6 Mohm
+
+#2 20/03/2020 08:39:10	Riso warning 6.6 Mohm
+
+#2 20/03/2020 08:34:08	Riso warning 6.6 Mohm
+
+#2 20/03/2020 08:34:08	VGrid high warning 250.22 V on phase 1
+
+#2 20/03/2020 08:29:00	Riso warning 6.6 Mohm
+
+#2 20/03/2020 08:24:10	Riso warning 6.6 Mohm
+
+#2 20/03/2020 08:19:02	Riso warning 6.6 Mohm
+
+#2 20/03/2020 08:14:01	Riso warning 6.6 Mohm
+
+#2 20/03/2020 08:09:09	Riso warning 6.6 Mohm
+
+#2 20/03/2020 08:04:05	Riso warning 6.6 Mohm
+
+#2 20/03/2020 07:59:05	Riso warning 6.6 Mohm
+
+#2 20/03/2020 07:54:04	Riso warning 6.6 Mohm
+
+#2 20/03/2020 07:49:04	Riso warning 6.6 Mohm
+
+#2 20/03/2020 07:44:06	Riso warning 6.6 Mohm
+
+#2 20/03/2020 07:39:00	Riso warning 6.6 Mohm
+
+#2 20/03/2020 07:34:02	Riso warning 6.6 Mohm
+
+#2 20/03/2020 07:29:06	Riso warning 6.6 Mohm
+
+#2 20/03/2020 07:24:02	Riso warning 6.6 Mohm
+
+#2 20/03/2020 07:19:07	Riso warning 6.6 Mohm
+
+#2 20/03/2020 07:14:08	Riso warning 6.6 Mohm
+
+#2 20/03/2020 07:09:03	Riso warning 6.6 Mohm
+
+#2 20/03/2020 07:04:06	Riso warning 6.6 Mohm
+
+#2 20/03/2020 06:59:54	Sync. inverter time
+
+#2 20/03/2020 06:59:05	Riso warning 6.6 Mohm
+
+#2 20/03/2020 06:54:07	Riso warning 6.6 Mohm
+
+#2 20/03/2020 06:49:03	Riso warning 6.6 Mohm
+
+#2 20/03/2020 06:44:02	Riso warning 6.6 Mohm
+
+#2 20/03/2020 06:39:09	Riso warning 6.6 Mohm
+
+#2 20/03/2020 06:34:04	Riso warning 6.6 Mohm
+
+#2 20/03/2020 06:29:02	Riso warning 6.6 Mohm
+
+#2 20/03/2020 06:24:02	Riso warning 6.6 Mohm
+
+#2 20/03/2020 06:19:04	Riso warning 6.6 Mohm
+
+#2 20/03/2020 06:14:02	Riso warning 6.6 Mohm
+
+#2 20/03/2020 06:09:04	Riso warning 6.6 Mohm
+
+#2 20/03/2020 06:04:05	Riso warning 6.6 Mohm
+
+#* 20/03/2020 06:03:23	Starting 123Solar (29798)
+
+#* 20/03/2020 06:03:21	Stopping 123Solar (23072)
+
+#2 20/03/2020 05:59:48	Clean up log
+
+#2 20/03/2020 05:59:48	Missing 5' sample
+
+#2 20/03/2020 05:54:58	Missing 5' sample
+
+#2 20/03/2020 05:50:31	Missing 5' sample
+
+#2 20/03/2020 05:44:54	Missing 5' sample
+
+#* 20/03/2020 05:40:18	123Solar awake
+
+#* 19/03/2020 19:38:18	Starting 123Solar (23072)
+
+#* 19/03/2020 19:38:16	Stopping 123Solar (22522)
+
+#* 19/03/2020 19:36:52	Starting 123Solar (22522)
+
+#* 19/03/2020 19:36:50	Stopping 123Solar (22221)
+
+#* 19/03/2020 19:35:35	Starting 123Solar (22221)
+
+#* 19/03/2020 19:35:34	Stopping 123Solar (4237)
+
+#* 19/03/2020 18:00:03	123Solar asleep
+
+#2 19/03/2020 12:25:16	VGrid high warning 250.64 V on phase 1
+
+#2 19/03/2020 12:20:10	VGrid high warning 251.55 V on phase 1
+
+#2 19/03/2020 11:45:12	VGrid high warning 250.94 V on phase 1
+
+#2 19/03/2020 11:20:03	VGrid high warning 251.89 V on phase 1
+
+#2 19/03/2020 11:10:11	VGrid high warning 252.01 V on phase 1
+
+#2 19/03/2020 11:05:00	VGrid high warning 252.01 V on phase 1
+
+#2 19/03/2020 11:00:07	VGrid high warning 250.54 V on phase 1
+
+#2 19/03/2020 10:50:16	VGrid high warning 250.73 V on phase 1
+
+#2 19/03/2020 10:45:13	VGrid high warning 250.62 V on phase 1
+
+#2 19/03/2020 10:40:01	VGrid high warning 250.74 V on phase 1
+
+#2 19/03/2020 10:35:11	VGrid high warning 251.2 V on phase 1
+
+#2 19/03/2020 10:30:17	VGrid high warning 251.08 V on phase 1
+
+#2 19/03/2020 10:25:10	VGrid high warning 251.67 V on phase 1
+
+#2 19/03/2020 10:20:04	VGrid high warning 250.47 V on phase 1
+
+#2 19/03/2020 10:15:00	VGrid high warning 251.33 V on phase 1
+
+#2 19/03/2020 10:10:10	VGrid high warning 251.61 V on phase 1
+
+#2 19/03/2020 10:05:05	VGrid high warning 250.12 V on phase 1
+
+#2 19/03/2020 10:00:08	VGrid high warning 250.29 V on phase 1
+
+#2 19/03/2020 09:55:07	VGrid high warning 251.73 V on phase 1
+
+#2 19/03/2020 09:25:09	VGrid high warning 251.54 V on phase 1
+
+#2 19/03/2020 09:20:04	VGrid high warning 250.9 V on phase 1
+
+#2 19/03/2020 08:20:02	VGrid high warning 250.22 V on phase 1
+
+#2 19/03/2020 08:15:05	VGrid high warning 250.5 V on phase 1
+
+#2 19/03/2020 08:05:01	VGrid high warning 250.15 V on phase 1
+
+#2 19/03/2020 06:49:56	Sync. inverter time
+
+#2 19/03/2020 05:50:38	Clean up log
+
+#2 19/03/2020 05:44:58	Missing 5' sample
+
+#* 19/03/2020 05:42:03	123Solar awake
+
+#* 18/03/2020 17:59:02	123Solar asleep
+
+#2 18/03/2020 15:10:28	VGrid high warning 250.53 V on phase 1
+
+#2 18/03/2020 15:05:25	VGrid high warning 251.08 V on phase 1
+
+#2 18/03/2020 15:00:04	VGrid high warning 250.1 V on phase 1
+
+#2 18/03/2020 14:50:25	VGrid high warning 250.06 V on phase 1
+
+#2 18/03/2020 14:20:30	VGrid high warning 250.45 V on phase 1
+
+#2 18/03/2020 14:15:02	VGrid high warning 250.6 V on phase 1
+
+#2 18/03/2020 14:00:01	VGrid high warning 250.62 V on phase 1
+
+#2 18/03/2020 13:55:17	VGrid high warning 253.62 V on phase 1
+
+#2 18/03/2020 13:50:00	VGrid high warning 254.51 V on phase 1
+
+#2 18/03/2020 13:45:21	VGrid high warning 251.6 V on phase 1
+
+#2 18/03/2020 13:40:21	VGrid high warning 252.29 V on phase 1
+
+#2 18/03/2020 13:35:04	VGrid high warning 252.25 V on phase 1
+
+#2 18/03/2020 13:30:02	VGrid high warning 253.06 V on phase 1
+
+#2 18/03/2020 13:25:25	VGrid high warning 252.6 V on phase 1
+
+#2 18/03/2020 13:20:07	VGrid high warning 251.4 V on phase 1
+
+#2 18/03/2020 13:15:03	VGrid high warning 252.28 V on phase 1
+
+#2 18/03/2020 13:10:22	VGrid high warning 252.16 V on phase 1
+
+#2 18/03/2020 13:05:21	VGrid high warning 252.44 V on phase 1
+
+#2 18/03/2020 13:00:21	VGrid high warning 252.51 V on phase 1
+
+#2 18/03/2020 12:55:03	VGrid high warning 251.54 V on phase 1
+
+#2 18/03/2020 12:50:28	VGrid high warning 252.29 V on phase 1
+
+#2 18/03/2020 12:45:20	VGrid high warning 251.7 V on phase 1
+
+#2 18/03/2020 12:40:21	VGrid high warning 252.18 V on phase 1
+
+#2 18/03/2020 12:35:03	VGrid high warning 250.47 V on phase 1
+
+#2 18/03/2020 12:30:21	VGrid high warning 250.63 V on phase 1
+
+#2 18/03/2020 12:20:18	VGrid high warning 252.21 V on phase 1
+
+#2 18/03/2020 12:15:26	VGrid high warning 250.87 V on phase 1
+
+#2 18/03/2020 12:10:03	VGrid high warning 250.43 V on phase 1
+
+#2 18/03/2020 12:05:23	VGrid high warning 251.99 V on phase 1
+
+#2 18/03/2020 12:00:24	VGrid high warning 251.64 V on phase 1
+
+#2 18/03/2020 11:55:05	VGrid high warning 251.92 V on phase 1
+
+#2 18/03/2020 11:50:23	VGrid high warning 250.31 V on phase 1
+
+#2 18/03/2020 11:45:06	VGrid high warning 251.44 V on phase 1
+
+#2 18/03/2020 11:40:28	VGrid high warning 252.07 V on phase 1
+
+#2 18/03/2020 11:35:06	VGrid high warning 252.49 V on phase 1
+
+#2 18/03/2020 11:10:20	VGrid high warning 250.34 V on phase 1
+
+#2 18/03/2020 07:00:06	Sync. inverter time
+
+#* 18/03/2020 06:01:47	Starting 123Solar (4237)
+
+#* 18/03/2020 06:01:44	Stopping 123Solar (1606)
+
+#2 18/03/2020 06:00:12	Clean up
+
+#2 18/03/2020 05:55:53 
+Alarm 1:               Bulk UV W011
+Alarm 2:               Bulk UV W011
+Alarm 3:               Bulk UV W011
+Alarm 4:               Bulk UV W011
+
+#2 18/03/2020 05:50:32	Missing 5' sample
+
+#* 18/03/2020 05:44:03	123Solar awake
+
+#* 17/03/2020 17:57:02	123Solar asleep
+
+#2 17/03/2020 17:18:11	Connection restored
+
+#2 17/03/2020 17:15:06	Missing 5' sample
+
+#2 17/03/2020 17:14:00	Connection lost
+
+#2 17/03/2020 17:10:03	Missing 5' sample
+
+#2 17/03/2020 17:09:00	Connection lost
+
+#2 17/03/2020 17:05:06	Missing 5' sample
+
+#2 17/03/2020 17:04:00	Connection lost
+
+#2 17/03/2020 17:00:03	Missing 5' sample
+
+#2 17/03/2020 16:59:00	Connection lost
+
+#2 17/03/2020 16:55:06	Missing 5' sample
+
+#2 17/03/2020 16:54:00	Connection lost
+
+#2 17/03/2020 16:50:06	Missing 5' sample
+
+#2 17/03/2020 16:49:00	Connection lost
+
+#2 17/03/2020 16:45:03	Missing 5' sample
+
+#2 17/03/2020 16:44:00	Connection lost
+
+#2 17/03/2020 16:39:59	Missing 5' sample
+
+#2 17/03/2020 16:39:00	Connection lost
+
+#2 17/03/2020 16:35:03	Missing 5' sample
+
+#2 17/03/2020 16:34:00	Connection lost
+
+#2 17/03/2020 16:30:06	Missing 5' sample
+
+#2 17/03/2020 16:29:00	Connection lost
+
+#2 17/03/2020 16:24:59	Missing 5' sample
+
+#2 17/03/2020 16:24:00	Connection lost
+
+#2 17/03/2020 16:20:03	Missing 5' sample
+
+#2 17/03/2020 16:19:00	Connection lost
+
+#2 17/03/2020 16:14:59	Missing 5' sample
+
+#2 17/03/2020 16:14:00	Connection lost
+
+#2 17/03/2020 16:10:03	Missing 5' sample
+
+#2 17/03/2020 16:09:00	Connection lost
+
+#* 17/03/2020 16:03:09	123Solar awake
+
+#* 17/03/2020 16:03:08	Starting 123Solar (1606)
+
+#2 17/03/2020 15:56:34	VGrid high warning 250.05 V on phase 1
+
+#2 17/03/2020 15:41:09	VGrid high warning 250.1 V on phase 1
+
+#* 17/03/2020 15:39:07	Starting 123Solar (29160)
+
+#* 17/03/2020 15:39:05	Stopping 123Solar (1356)
+
+#2 17/03/2020 15:36:51	VGrid high warning 250.97 V on phase 1
+
+#2 17/03/2020 15:31:51	VGrid high warning 251.13 V on phase 1
+
+#2 17/03/2020 15:05:22	VGrid high warning 250.21 V on phase 1
+
+#2 17/03/2020 15:00:47	VGrid high warning 250.5 V on phase 1
+
+#2 17/03/2020 14:55:03	VGrid high warning 250.63 V on phase 1
+
+#2 17/03/2020 14:50:47	VGrid high warning 251.09 V on phase 1
+
+#2 17/03/2020 14:45:53	VGrid high warning 250.3 V on phase 1
+
+#2 17/03/2020 14:40:10	VGrid high warning 250.84 V on phase 1
+
+#2 17/03/2020 13:50:01	VGrid high warning 251.2 V on phase 1
+
+#2 17/03/2020 13:45:16	VGrid high warning 250.04 V on phase 1
+
+#2 17/03/2020 13:40:01	VGrid high warning 250.87 V on phase 1
+
+#2 17/03/2020 13:35:00	VGrid high warning 250.69 V on phase 1
+
+#2 17/03/2020 13:10:09	VGrid high warning 251.61 V on phase 1
+
+#2 17/03/2020 12:55:46	VGrid high warning 250.08 V on phase 1
+
+#2 17/03/2020 12:40:47	VGrid high warning 251.02 V on phase 1
+
+#2 17/03/2020 12:35:00	VGrid high warning 251.42 V on phase 1
+
+#2 17/03/2020 12:25:21	VGrid high warning 250.74 V on phase 1
+
+#2 17/03/2020 12:20:10	VGrid high warning 250.56 V on phase 1
+
+#2 17/03/2020 12:10:40	VGrid high warning 250.41 V on phase 1
+
+#2 17/03/2020 12:00:28	VGrid high warning 250.8 V on phase 1
+
+#2 17/03/2020 11:55:53	VGrid high warning 250.19 V on phase 1
+
+#2 17/03/2020 11:45:39	VGrid high warning 250.53 V on phase 1
+
+#2 17/03/2020 10:20:19	VGrid high warning 250.25 V on phase 1
+
+#2 17/03/2020 10:10:20	VGrid high warning 250.89 V on phase 1
+
+#2 17/03/2020 10:00:49	VGrid high warning 250.02 V on phase 1
+
+#2 17/03/2020 06:54:57	Sync. inverter time
+
+#2 17/03/2020 05:55:29	Clean up
+
+#2 17/03/2020 05:49:58	Missing 5' sample
+
+#* 17/03/2020 05:47:02	123Solar awake
+
+#* 16/03/2020 17:55:01	123Solar asleep
+
+#2 16/03/2020 16:16:32	VGrid high warning 251.42 V on phase 1
+
+#2 16/03/2020 16:11:26	VGrid high warning 251.6 V on phase 1
+
+#2 16/03/2020 16:06:02	VGrid high warning 250.74 V on phase 1
+
+#2 16/03/2020 16:01:03	VGrid high warning 250.19 V on phase 1
+
+#2 16/03/2020 15:56:25	VGrid high warning 251.11 V on phase 1
+
+#2 16/03/2020 15:26:01	VGrid high warning 250.38 V on phase 1
+
+#2 16/03/2020 15:21:04	VGrid high warning 250.93 V on phase 1
+
+#2 16/03/2020 15:16:06	VGrid high warning 251.15 V on phase 1
+
+#2 16/03/2020 14:56:14	VGrid high warning 251.13 V on phase 1
+
+#2 16/03/2020 14:26:19	VGrid high warning 251.03 V on phase 1
+
+#2 16/03/2020 14:21:08	VGrid high warning 250.88 V on phase 1
+
+#2 16/03/2020 14:16:15	VGrid high warning 251.55 V on phase 1
+
+#2 16/03/2020 14:11:25	VGrid high warning 251.4 V on phase 1
+
+#2 16/03/2020 14:06:19	VGrid high warning 250.84 V on phase 1
+
+#2 16/03/2020 14:01:26	VGrid high warning 251.84 V on phase 1
+
+#2 16/03/2020 13:56:31	VGrid high warning 250.63 V on phase 1
+
+#2 16/03/2020 13:41:16	VGrid high warning 253 V on phase 1
+
+#2 16/03/2020 13:36:08	VGrid high warning 252.33 V on phase 1
+
+#2 16/03/2020 13:31:27	VGrid high warning 252.83 V on phase 1
+
+#2 16/03/2020 13:26:22	VGrid high warning 251.28 V on phase 1
+
+#2 16/03/2020 13:21:00	VGrid high warning 251.34 V on phase 1
+
+#2 16/03/2020 13:16:15	VGrid high warning 252.7 V on phase 1
+
+#2 16/03/2020 13:11:16	VGrid high warning 251.13 V on phase 1
+
+#2 16/03/2020 13:06:07	VGrid high warning 251.75 V on phase 1
+
+#2 16/03/2020 13:00:01	VGrid high warning 251.54 V on phase 1
+
+#2 16/03/2020 12:55:45	VGrid high warning 251.43 V on phase 1
+
+#2 16/03/2020 12:50:06	VGrid high warning 251.48 V on phase 1
+
+#2 16/03/2020 12:45:42	VGrid high warning 251.84 V on phase 1
+
+#2 16/03/2020 12:25:16	VGrid high warning 250.91 V on phase 1
+
+#2 16/03/2020 12:20:15	VGrid high warning 250.91 V on phase 1
+
+#2 16/03/2020 12:15:11	VGrid high warning 251.61 V on phase 1
+
+#2 16/03/2020 12:10:07	VGrid high warning 251.16 V on phase 1
+
+#2 16/03/2020 12:05:44	VGrid high warning 251.74 V on phase 1
+
+#2 16/03/2020 12:00:14	VGrid high warning 253.18 V on phase 1
+
+#2 16/03/2020 11:55:54	VGrid high warning 252.76 V on phase 1
+
+#2 16/03/2020 11:50:48	VGrid high warning 251.51 V on phase 1
+
+#2 16/03/2020 11:45:05	VGrid high warning 252.26 V on phase 1
+
+#2 16/03/2020 11:40:02	VGrid high warning 251.67 V on phase 1
+
+#2 16/03/2020 11:35:44	VGrid high warning 250.83 V on phase 1
+
+#2 16/03/2020 11:20:43	VGrid high warning 251.58 V on phase 1
+
+#2 16/03/2020 11:15:45	VGrid high warning 250.6 V on phase 1
+
+#2 16/03/2020 11:10:46	VGrid high warning 251.69 V on phase 1
+
+#2 16/03/2020 10:55:05	VGrid high warning 250.82 V on phase 1
+
+#2 16/03/2020 10:50:07	VGrid high warning 250.97 V on phase 1
+
+#2 16/03/2020 10:45:05	VGrid high warning 250.31 V on phase 1
+
+#2 16/03/2020 10:40:44	VGrid high warning 251.44 V on phase 1
+
+#2 16/03/2020 10:35:29	VGrid high warning 250.44 V on phase 1
+
+#2 16/03/2020 10:30:48	VGrid high warning 250.8 V on phase 1
+
+#2 16/03/2020 10:25:07	VGrid high warning 250.81 V on phase 1
+
+#2 16/03/2020 10:20:07	VGrid high warning 252.18 V on phase 1
+
+#2 16/03/2020 10:15:43	VGrid high warning 251.36 V on phase 1
+
+#2 16/03/2020 10:10:15	VGrid high warning 252.04 V on phase 1
+
+#2 16/03/2020 10:05:00	VGrid high warning 252.67 V on phase 1
+
+#2 16/03/2020 10:00:45	VGrid high warning 251.48 V on phase 1
+
+#2 16/03/2020 09:55:14	VGrid high warning 252.03 V on phase 1
+
+#2 16/03/2020 09:50:13	VGrid high warning 252.24 V on phase 1
+
+#2 16/03/2020 09:20:11	VGrid high warning 250.82 V on phase 1
+
+#2 16/03/2020 09:15:55	VGrid high warning 250.9 V on phase 1
+
+#2 16/03/2020 09:10:41	VGrid high warning 251.17 V on phase 1
+
+#2 16/03/2020 09:05:16	VGrid high warning 250.9 V on phase 1
+
+#2 16/03/2020 08:25:11	VGrid high warning 250.98 V on phase 1
+
+#2 16/03/2020 08:20:11	VGrid high warning 250.83 V on phase 1
+
+#2 16/03/2020 08:15:02	VGrid high warning 251.11 V on phase 1
+
+#2 16/03/2020 08:10:05	VGrid high warning 250.12 V on phase 1
+
+#2 16/03/2020 06:59:55	Sync. inverter time
+
+#2 16/03/2020 06:00:08	Clean up
+
+#* 16/03/2020 05:49:05	123Solar awake
+
+#* 15/03/2020 17:54:04	123Solar asleep
+
+#2 15/03/2020 16:01:22	VGrid high warning 251.71 V on phase 1
+
+#* 15/03/2020 15:50:25	123Solar awake
+
+#* 15/03/2020 15:50:24	Starting 123Solar (1356)
+
+#2 15/03/2020 15:44:12	VGrid high warning 250.88 V on phase 1
+
+#2 15/03/2020 15:34:42	Connection restored
+
+#2 15/03/2020 15:34:00	Connection lost
+
+#2 15/03/2020 15:30:06	Missing 5' sample
+
+#2 15/03/2020 15:29:00	Connection lost
+
+#2 15/03/2020 15:24:59	Missing 5' sample
+
+#2 15/03/2020 15:24:00	Connection lost
+
+#2 15/03/2020 15:20:03	Missing 5' sample
+
+#2 15/03/2020 15:19:00	Connection lost
+
+#2 15/03/2020 15:14:59	Missing 5' sample
+
+#2 15/03/2020 15:14:00	Connection lost
+
+#2 15/03/2020 15:10:06	Missing 5' sample
+
+#2 15/03/2020 15:09:00	Connection lost
+
+#2 15/03/2020 15:05:06	Missing 5' sample
+
+#2 15/03/2020 15:04:00	Connection lost
+
+#2 15/03/2020 15:00:03	Missing 5' sample
+
+#2 15/03/2020 14:59:00	Connection lost
+
+#2 15/03/2020 14:55:03	Missing 5' sample
+
+#2 15/03/2020 14:45:03	Missing 5' sample
+
+#2 15/03/2020 14:39:47	VGrid high warning 251.29 V on phase 1
+
+#2 15/03/2020 14:34:11	VGrid high warning 251.6 V on phase 1
+
+#2 15/03/2020 14:29:52	VGrid high warning 250.42 V on phase 1
+
+#2 15/03/2020 14:14:05	VGrid high warning 250.41 V on phase 1
+
+#2 15/03/2020 14:09:41	VGrid high warning 251.78 V on phase 1
+
+#2 15/03/2020 14:04:04	VGrid high warning 250.84 V on phase 1
+
+#2 15/03/2020 13:59:04	VGrid high warning 252.74 V on phase 1
+
+#2 15/03/2020 13:54:20	VGrid high warning 251.7 V on phase 1
+
+#2 15/03/2020 13:49:12	VGrid high warning 250.65 V on phase 1
+
+#2 15/03/2020 13:39:03	VGrid high warning 252.14 V on phase 1
+
+#2 15/03/2020 13:34:15	VGrid high warning 252.17 V on phase 1
+
+#2 15/03/2020 13:29:42	VGrid high warning 250.96 V on phase 1
+
+#2 15/03/2020 13:24:21	VGrid high warning 252.01 V on phase 1
+
+#2 15/03/2020 13:19:00	VGrid high warning 250.58 V on phase 1
+
+#2 15/03/2020 13:09:14	VGrid high warning 250.68 V on phase 1
+
+#2 15/03/2020 12:59:09	VGrid high warning 250.55 V on phase 1
+
+#2 15/03/2020 12:54:07	VGrid high warning 251.38 V on phase 1
+
+#2 15/03/2020 12:49:13	VGrid high warning 251.01 V on phase 1
+
+#2 15/03/2020 12:44:47	VGrid high warning 250.98 V on phase 1
+
+#2 15/03/2020 12:34:11	VGrid high warning 250.29 V on phase 1
+
+#2 15/03/2020 12:29:13	VGrid high warning 250.44 V on phase 1
+
+#2 15/03/2020 12:24:05	VGrid high warning 250.48 V on phase 1
+
+#2 15/03/2020 12:14:03	VGrid high warning 250.23 V on phase 1
+
+#2 15/03/2020 12:09:04	VGrid high warning 250.11 V on phase 1
+
+#2 15/03/2020 12:04:09	VGrid high warning 250.68 V on phase 1
+
+#2 15/03/2020 11:59:08	VGrid high warning 251.04 V on phase 1
+
+#2 15/03/2020 11:54:06	VGrid high warning 251.63 V on phase 1
+
+#2 15/03/2020 11:44:51	VGrid high warning 251.21 V on phase 1
+
+#2 15/03/2020 11:34:17	VGrid high warning 250.7 V on phase 1
+
+#2 15/03/2020 11:24:09	VGrid high warning 250.28 V on phase 1
+
+#2 15/03/2020 11:19:49	VGrid high warning 251.04 V on phase 1
+
+#2 15/03/2020 11:14:03	VGrid high warning 250.48 V on phase 1
+
+#2 15/03/2020 11:09:11	VGrid high warning 250.12 V on phase 1
+
+#2 15/03/2020 10:59:51	VGrid high warning 251.73 V on phase 1
+
+#2 15/03/2020 10:54:02	VGrid high warning 250.7 V on phase 1
+
+#2 15/03/2020 10:49:43	VGrid high warning 251.13 V on phase 1
+
+#2 15/03/2020 10:44:26	VGrid high warning 251.21 V on phase 1
+
+#2 15/03/2020 10:39:40	VGrid high warning 250.18 V on phase 1
+
+#2 15/03/2020 10:34:12	VGrid high warning 250.83 V on phase 1
+
+#2 15/03/2020 10:24:13	VGrid high warning 250.36 V on phase 1
+
+#2 15/03/2020 10:04:13	VGrid high warning 251.11 V on phase 1
+
+#2 15/03/2020 09:49:27	VGrid high warning 251.28 V on phase 1
+
+#2 15/03/2020 09:44:08	VGrid high warning 251.1 V on phase 1
+
+#2 15/03/2020 09:39:01	VGrid high warning 250.9 V on phase 1
+
+#2 15/03/2020 09:34:05	VGrid high warning 251.63 V on phase 1
+
+#2 15/03/2020 09:24:05	VGrid high warning 250.98 V on phase 1
+
+#2 15/03/2020 09:19:02	VGrid high warning 251.84 V on phase 1
+
+#2 15/03/2020 09:14:43	VGrid high warning 251.22 V on phase 1
+
+#2 15/03/2020 09:09:43	VGrid high warning 251.37 V on phase 1
+
+#2 15/03/2020 09:04:08	VGrid high warning 251.49 V on phase 1
+
+#2 15/03/2020 08:59:01	VGrid high warning 250.69 V on phase 1
+
+#2 15/03/2020 08:54:14	VGrid high warning 251.3 V on phase 1
+
+#* 15/03/2020 07:07:48	Starting 123Solar (25951)
+
+#* 15/03/2020 07:07:46	Stopping 123Solar (25280)
+
+#2 15/03/2020 06:59:58	Sync. inverter time
+
+#* 15/03/2020 06:44:32	Starting 123Solar (25280)
+
+#* 15/03/2020 06:44:30	Stopping 123Solar (19341)
+
+#2 15/03/2020 06:04:06 
+Alarm 1:               Bulk UV W011
+Alarm 2:               Bulk UV W011
+Alarm 3:               Bulk UV W011
+Alarm 4:               Bulk UV W011
+
+#2 15/03/2020 05:59:56	Clean up
+
+#2 15/03/2020 05:54:56	Missing 5' sample
+
+#* 15/03/2020 05:51:12	123Solar awake
+
+#* 14/03/2020 20:08:11	Starting 123Solar (19341)
+
+#* 14/03/2020 20:08:06	Stopping 123Solar (1169)
+
+#* 14/03/2020 17:52:06	123Solar asleep
+
+#2 14/03/2020 15:59:07	VGrid high warning 250.5 V on phase 1
+
+#2 14/03/2020 15:49:11	VGrid high warning 250.87 V on phase 1
+
+#2 14/03/2020 15:39:01	VGrid high warning 250.61 V on phase 1
+
+#2 14/03/2020 15:34:07	VGrid high warning 250.25 V on phase 1
+
+#2 14/03/2020 15:29:01	VGrid high warning 251.06 V on phase 1
+
+#2 14/03/2020 15:14:11	VGrid high warning 250.5 V on phase 1
+
+#2 14/03/2020 15:04:08	VGrid high warning 250.06 V on phase 1
+
+#2 14/03/2020 14:54:06	VGrid high warning 250.65 V on phase 1
+
+#2 14/03/2020 11:09:03	VGrid high warning 250.35 V on phase 1
+
+#2 14/03/2020 07:05:07	Sync. inverter time
+
+#2 14/03/2020 06:04:52	Clean up
+
+#2 14/03/2020 05:54:54	Missing 5' sample
+
+#* 14/03/2020 05:53:02	123Solar awake
+
+#* 13/03/2020 17:50:01	123Solar asleep
+
+#2 13/03/2020 14:24:09	VGrid high warning 250.29 V on phase 1
+
+#2 13/03/2020 14:04:01	VGrid high warning 251.04 V on phase 1
+
+#2 13/03/2020 13:59:06	VGrid high warning 251.95 V on phase 1
+
+#2 13/03/2020 13:49:07	VGrid high warning 251.07 V on phase 1
+
+#2 13/03/2020 12:54:05	VGrid high warning 250.34 V on phase 1
+
+#2 13/03/2020 12:49:09	VGrid high warning 250.04 V on phase 1
+
+#2 13/03/2020 07:09:54	Sync. inverter time
+
+#2 13/03/2020 06:09:55	Clean up
+
+#2 13/03/2020 06:04:57	Missing 5' sample
+
+#2 13/03/2020 06:00:30	Missing 5' sample
+
+#2 13/03/2020 05:55:04	Missing 5' sample
+
+#* 13/03/2020 05:55:04	123Solar awake
+
+#* 12/03/2020 17:49:03	123Solar asleep
+
+#2 12/03/2020 07:19:57	Sync. inverter time
+
+#2 12/03/2020 06:19:54	Clean up
+
+#2 12/03/2020 06:15:21	Missing 5' sample
+
+#2 12/03/2020 06:09:56	Missing 5' sample
+
+#2 12/03/2020 06:05:29	Missing 5' sample
+
+#2 12/03/2020 05:59:52	Missing 5' sample
+
+#* 12/03/2020 05:58:00	123Solar awake
+
+#* 11/03/2020 17:47:00	123Solar asleep
+
+#2 11/03/2020 15:35:01	VGrid high warning 251.89 V on phase 1
+
+#2 11/03/2020 15:30:07	VGrid high warning 251.54 V on phase 1
+
+#2 11/03/2020 15:25:10	VGrid high warning 251.64 V on phase 1
+
+#2 11/03/2020 15:20:02	VGrid high warning 251.31 V on phase 1
+
+#2 11/03/2020 15:15:14	VGrid high warning 252.45 V on phase 1
+
+#2 11/03/2020 15:10:14	VGrid high warning 252.33 V on phase 1
+
+#2 11/03/2020 15:05:15	VGrid high warning 251.69 V on phase 1
+
+#2 11/03/2020 15:00:02	VGrid high warning 252.85 V on phase 1
+
+#2 11/03/2020 14:55:17	VGrid high warning 251.11 V on phase 1
+
+#2 11/03/2020 14:50:08	VGrid high warning 252.12 V on phase 1
+
+#2 11/03/2020 14:45:08	VGrid high warning 253.64 V on phase 1
+
+#2 11/03/2020 14:40:03	VGrid high warning 252.05 V on phase 1
+
+#2 11/03/2020 14:35:13	VGrid high warning 252.72 V on phase 1
+
+#2 11/03/2020 14:30:12	VGrid high warning 252.18 V on phase 1
+
+#2 11/03/2020 14:25:10	VGrid high warning 251.87 V on phase 1
+
+#2 11/03/2020 14:20:10	VGrid high warning 251.9 V on phase 1
+
+#2 11/03/2020 14:15:08	VGrid high warning 253.27 V on phase 1
+
+#2 11/03/2020 14:10:01	VGrid high warning 253.08 V on phase 1
+
+#2 11/03/2020 14:05:03	VGrid high warning 253.46 V on phase 1
+
+#2 11/03/2020 14:00:09	VGrid high warning 253.21 V on phase 1
+
+#2 11/03/2020 13:55:05	VGrid high warning 253.54 V on phase 1
+
+#2 11/03/2020 13:50:09	VGrid high warning 252.98 V on phase 1
+
+#2 11/03/2020 13:45:18	VGrid high warning 251.96 V on phase 1
+
+#2 11/03/2020 13:40:07	VGrid high warning 251.14 V on phase 1
+
+#2 11/03/2020 13:30:01	VGrid high warning 250.95 V on phase 1
+
+#2 11/03/2020 13:25:00	VGrid high warning 250.55 V on phase 1
+
+#2 11/03/2020 13:15:11	VGrid high warning 250.51 V on phase 1
+
+#2 11/03/2020 13:10:04	VGrid high warning 250.64 V on phase 1
+
+#2 11/03/2020 13:05:03	VGrid high warning 250.75 V on phase 1
+
+#2 11/03/2020 13:00:08	VGrid high warning 251.17 V on phase 1
+
+#2 11/03/2020 12:55:05	VGrid high warning 250.86 V on phase 1
+
+#2 11/03/2020 12:50:10	VGrid high warning 250.19 V on phase 1
+
+#2 11/03/2020 12:45:10	VGrid high warning 250.14 V on phase 1
+
+#2 11/03/2020 11:15:01	VGrid high warning 250.45 V on phase 1
+
+#2 11/03/2020 10:55:07	VGrid high warning 250.03 V on phase 1
+
+#2 11/03/2020 10:15:06	VGrid high warning 250.54 V on phase 1
+
+#2 11/03/2020 10:05:00	VGrid high warning 251.02 V on phase 1
+
+#2 11/03/2020 10:00:00	VGrid high warning 251.68 V on phase 1
+
+#2 11/03/2020 09:55:00	VGrid high warning 250.68 V on phase 1
+
+#2 11/03/2020 07:29:53	Sync. inverter time
+
+#2 11/03/2020 06:39:10	Connection restored
+
+#2 11/03/2020 06:35:10	Connection lost
+
+#2 11/03/2020 06:35:10	Missing 5' sample
+
+#2 11/03/2020 06:30:43 
+Alarm 1:               Sun Low W001 (5)
+Alarm 2:               Sun Low W001 (5)
+Alarm 3:               Sun Low W001 (5)
+Alarm 4:               Sun Low W001 (5)
+
+#2 11/03/2020 06:25:02	Clean up
+
+#2 11/03/2020 06:19:55	Missing 5' sample
+
+#2 11/03/2020 06:15:28	Missing 5' sample
+
+#2 11/03/2020 06:10:34	Missing 5' sample
+
+#2 11/03/2020 06:04:57	Missing 5' sample
+
+#* 11/03/2020 06:00:06	123Solar awake
+
+#* 10/03/2020 17:45:05	123Solar asleep
+
+#2 10/03/2020 15:44:10	VGrid high warning 250.25 V on phase 1
+
+#2 10/03/2020 15:34:03	VGrid high warning 250.78 V on phase 1
+
+#2 10/03/2020 15:29:05	VGrid high warning 250.17 V on phase 1
+
+#2 10/03/2020 15:24:06	VGrid high warning 250.02 V on phase 1
+
+#2 10/03/2020 14:39:02	VGrid high warning 250.22 V on phase 1
+
+#2 10/03/2020 14:34:06	VGrid high warning 251.33 V on phase 1
+
+#2 10/03/2020 14:09:12	VGrid high warning 250.75 V on phase 1
+
+#2 10/03/2020 13:59:17	VGrid high warning 250.19 V on phase 1
+
+#2 10/03/2020 13:54:06	VGrid high warning 250.12 V on phase 1
+
+#2 10/03/2020 13:49:07	VGrid high warning 250.03 V on phase 1
+
+#2 10/03/2020 12:09:14	VGrid high warning 250.27 V on phase 1
+
+#2 10/03/2020 09:09:05	VGrid high warning 250.28 V on phase 1
+
+#2 10/03/2020 09:04:04	VGrid high warning 250.22 V on phase 1
+
+#2 10/03/2020 07:14:58	Sync. inverter time
+
+#2 10/03/2020 06:14:59	Clean up
+
+#2 10/03/2020 06:09:47	Missing 5' sample
+
+#2 10/03/2020 06:04:53	Missing 5' sample
+
+#* 10/03/2020 06:02:05	123Solar awake
+
+#* 09/03/2020 17:44:05	123Solar asleep
+
+#2 09/03/2020 11:40:06	VGrid high warning 250.01 V on phase 1
+
+#2 09/03/2020 07:15:05	Sync. inverter time
+
+#2 09/03/2020 06:15:13	Clean up
+
+#2 09/03/2020 06:14:32 
+Alarm 1:               Bulk UV W011
+Alarm 2:               Bulk UV W011
+Alarm 3:               Bulk UV W011
+Alarm 4:               Bulk UV W011
+
+#* 09/03/2020 06:04:06	123Solar awake
+
+#* 08/03/2020 17:42:05	123Solar asleep
+
+#2 08/03/2020 07:34:57	Sync. inverter time
+
+#2 08/03/2020 06:34:59	Clean up
+
+#2 08/03/2020 06:24:53	Missing 5' sample
+
+#2 08/03/2020 06:19:59	Missing 5' sample
+
+#2 08/03/2020 06:15:32	Missing 5' sample
+
+#2 08/03/2020 06:09:55	Missing 5' sample
+
+#* 08/03/2020 06:07:00	123Solar awake
+
+#* 07/03/2020 17:40:23	123Solar asleep
+
+#2 07/03/2020 17:35:03	Riso warning 6.7 Mohm
+
+#2 07/03/2020 17:30:02	Riso warning 6.7 Mohm
+
+#2 07/03/2020 17:25:08	Riso warning 6.7 Mohm
+
+#2 07/03/2020 17:20:14	Riso warning 6.7 Mohm
+
+#2 07/03/2020 17:15:09	Riso warning 6.7 Mohm
+
+#2 07/03/2020 17:10:14	Riso warning 6.7 Mohm
+
+#2 07/03/2020 17:05:05	Riso warning 6.7 Mohm
+
+#2 07/03/2020 17:00:13	Riso warning 6.7 Mohm
+
+#2 07/03/2020 16:55:11	Riso warning 6.7 Mohm
+
+#2 07/03/2020 16:50:03	Riso warning 6.7 Mohm
+
+#2 07/03/2020 16:45:10	Riso warning 6.7 Mohm
+
+#2 07/03/2020 16:40:10	Riso warning 6.7 Mohm
+
+#2 07/03/2020 16:35:04	Riso warning 6.7 Mohm
+
+#2 07/03/2020 16:30:09	Riso warning 6.7 Mohm
+
+#2 07/03/2020 16:25:10	Riso warning 6.7 Mohm
+
+#2 07/03/2020 16:20:13	Riso warning 6.7 Mohm
+
+#2 07/03/2020 16:15:09	Riso warning 6.7 Mohm
+
+#2 07/03/2020 16:10:03	Riso warning 6.7 Mohm
+
+#2 07/03/2020 16:05:10	Riso warning 6.7 Mohm
+
+#2 07/03/2020 16:00:12	Riso warning 6.7 Mohm
+
+#2 07/03/2020 15:55:03	Riso warning 6.7 Mohm
+
+#2 07/03/2020 15:50:13	Riso warning 6.7 Mohm
+
+#2 07/03/2020 15:45:02	Riso warning 6.7 Mohm
+
+#2 07/03/2020 15:40:06	Riso warning 6.7 Mohm
+
+#2 07/03/2020 15:35:16	Riso warning 6.7 Mohm
+
+#2 07/03/2020 15:30:05	Riso warning 6.7 Mohm
+
+#2 07/03/2020 15:25:05	Riso warning 6.7 Mohm
+
+#2 07/03/2020 15:20:14	Riso warning 6.7 Mohm
+
+#2 07/03/2020 15:15:10	Riso warning 6.7 Mohm
+
+#2 07/03/2020 15:10:12	Riso warning 6.7 Mohm
+
+#2 07/03/2020 15:05:10	Riso warning 6.7 Mohm
+
+#2 07/03/2020 15:00:08	Riso warning 6.7 Mohm
+
+#2 07/03/2020 14:55:09	Riso warning 6.7 Mohm
+
+#2 07/03/2020 14:50:11	Riso warning 6.7 Mohm
+
+#2 07/03/2020 14:45:17	Riso warning 6.7 Mohm
+
+#2 07/03/2020 14:40:04	Riso warning 6.7 Mohm
+
+#2 07/03/2020 14:35:03	Riso warning 6.7 Mohm
+
+#2 07/03/2020 14:30:02	Riso warning 6.7 Mohm
+
+#2 07/03/2020 14:25:02	Riso warning 6.7 Mohm
+
+#2 07/03/2020 14:20:12	Riso warning 6.7 Mohm
+
+#2 07/03/2020 14:15:12	Riso warning 6.7 Mohm
+
+#2 07/03/2020 14:10:05	Riso warning 6.7 Mohm
+
+#2 07/03/2020 14:05:07	Riso warning 6.7 Mohm
+
+#2 07/03/2020 14:00:06	Riso warning 6.7 Mohm
+
+#2 07/03/2020 13:55:02	Riso warning 6.7 Mohm
+
+#2 07/03/2020 13:50:12	Riso warning 6.7 Mohm
+
+#2 07/03/2020 13:45:08	Riso warning 6.7 Mohm
+
+#2 07/03/2020 13:40:07	Riso warning 6.7 Mohm
+
+#2 07/03/2020 13:35:12	Riso warning 6.7 Mohm
+
+#2 07/03/2020 13:30:07	Riso warning 6.7 Mohm
+
+#2 07/03/2020 13:25:02	Riso warning 6.7 Mohm
+
+#2 07/03/2020 13:20:10	Riso warning 6.7 Mohm
+
+#2 07/03/2020 13:15:00	Riso warning 6.7 Mohm
+
+#2 07/03/2020 13:10:01	Riso warning 6.7 Mohm
+
+#2 07/03/2020 13:05:02	Riso warning 6.7 Mohm
+
+#2 07/03/2020 13:00:06	Riso warning 6.7 Mohm
+
+#2 07/03/2020 12:55:06	Riso warning 6.7 Mohm
+
+#2 07/03/2020 12:50:16	Riso warning 6.7 Mohm
+
+#2 07/03/2020 12:45:08	Riso warning 6.7 Mohm
+
+#2 07/03/2020 12:40:02	Riso warning 6.7 Mohm
+
+#2 07/03/2020 12:35:03	Riso warning 6.7 Mohm
+
+#2 07/03/2020 12:30:17	Riso warning 6.7 Mohm
+
+#2 07/03/2020 12:25:01	Riso warning 6.7 Mohm
+
+#2 07/03/2020 12:20:03	Riso warning 6.7 Mohm
+
+#2 07/03/2020 12:15:03	Riso warning 6.7 Mohm
+
+#2 07/03/2020 12:10:04	Riso warning 6.7 Mohm
+
+#2 07/03/2020 12:05:17	Riso warning 6.7 Mohm
+
+#2 07/03/2020 12:00:12	Riso warning 6.7 Mohm
+
+#2 07/03/2020 11:55:02	Riso warning 6.7 Mohm
+
+#2 07/03/2020 11:50:07	Riso warning 6.7 Mohm
+
+#2 07/03/2020 11:45:12	Riso warning 6.7 Mohm
+

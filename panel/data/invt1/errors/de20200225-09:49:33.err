@@ -1,0 +1,105 @@
+
+aurora -b -a 2 -c -T -d0 -e /dev/ttyUSB0 
+
+szttyDevice: /dev/ttyUSB0
+yDelay:     1
+yTimeout    0 mS
+yMaxRunTime ~
+devLCKfile: </var/lock/LCK..ttyUSB0>
+devLCKfileNew: </var/lock/LCK..ttyUSB0.30024>
+Got Params
+
+RunTime     20200225-09:49:33 v1.9.3 
+Endian    : Little
+tm_gmtoff : yes
+PID       : 30024
+
+Attempting to get lock on Serial Port /dev/ttyUSB0...
+Checking for lock
+PID: 30024 COMMAND: "aurora" LckPID: 30024 LckCOMMAND: "aurora" LckPIDcommand "aurora" = me
+Appears we got the lock.
+
+Opening Serial Port /dev/ttyUSB0...  Serial Port /dev/ttyUSB0 successfully opened.
+Configuring serial device... Flushing unread data first...  Success!
+Flushing serial device buffer... Success!
+
+Comm Check: Let's see if the Aurora is listening... 
+Elapsed time since last comm 0 us
+Attempt 1
+Clearing read buffer Success!
+szSerBufferSave OK! 02 3a 00 00 00 00 00 00 00 00 
+command: 02 3a 00 00 00 00 00 00 01 b7 
+Flushing serial device buffer... Success!
+Sending command... sent 10 characters
+Draining serial device buffer... Success!
+Cleared data buffer: 00 00 00 00 00 00 00 00 00 00 
+Read char #1 RC=1 (00) waited/max    68768/1000000  uS 
+Read char #2 RC=1 (06) waited/max        8/1000000  uS 
+Read char #3 RC=1 (33) waited/max        6/1000000  uS 
+Read char #4 RC=1 (55) waited/max        6/1000000  uS 
+Read char #5 RC=1 (4e) waited/max        7/1000000  uS 
+Read char #6 RC=1 (4e) waited/max        7/1000000  uS 
+Read char #7 RC=1 (7a) waited/max        7/1000000  uS 
+Read char #8 RC=1 (68) waited/max        7/1000000  uS 
+answer:  00 06 33 55 4e 4e 7a 68 
+received 8 characters
+CRC receive OK 687a
+Transmission State Check: 0
+Model ID "3" qMultiplier -1.0000000 -- PVI-3.6-OUTD --
+Comm Check: OK
+
+Elapsed time since last comm 199 us
+Attempt 1
+Clearing read buffer Success!
+szSerBufferSave OK! 02 3b 04 00 00 00 00 00 00 00 
+command: 02 3b 04 00 00 00 00 00 78 38 
+Flushing serial device buffer... Success!
+Sending command... sent 10 characters
+Draining serial device buffer... Success!
+Cleared data buffer: 00 00 00 00 00 00 00 00 00 00 
+Read char #1 RC=1 (00) waited/max    11243/1000000  uS 
+Read char #2 RC=1 (06) waited/max        7/1000000  uS 
+Read char #3 RC=1 (42) waited/max        7/1000000  uS 
+Read char #4 RC=1 (48) waited/max        7/1000000  uS 
+Read char #5 RC=1 (08) waited/max        7/1000000  uS 
+Read char #6 RC=1 (31) waited/max        6/1000000  uS 
+Read char #7 RC=1 (a8) waited/max        6/1000000  uS 
+Read char #8 RC=1 (cd) waited/max        7/1000000  uS 
+answer:  00 06 42 48 08 31 a8 cd 
+received 8 characters
+CRC receive OK cda8
+Transmission State Check: 0
+szCvrtFloat    50.007999 0x42480831
+value        50.007999
+
+Elapsed time since last comm 78 us
+Attempt 1
+Clearing read buffer Success!
+szSerBufferSave OK! 02 3b 01 00 00 00 00 00 00 00 
+command: 02 3b 01 00 00 00 00 00 ff 2c 
+Flushing serial device buffer... Success!
+Sending command... sent 10 characters
+Draining serial device buffer... Success!
+Cleared data buffer: 00 00 00 00 00 00 00 00 00 00 
+Read char #1 RC=1 (43) waited/max    13735/1000000  uS 
+Read char #2 RC=1 (72) waited/max        8/1000000  uS 
+Read char #3 RC=1 (4d) waited/max        7/1000000  uS 
+Read char #4 RC=1 (14) waited/max        7/1000000  uS 
+Read char #5 RC=1 (b6) waited/max        7/1000000  uS 
+Read char #6 RC=1 (6a) waited/max        7/1000000  uS 
+Read char #7 RC=0 (00) waited/max   104617/1000000  uS 
+answer:  Got -1 characters
+_ERROR_ (59 1)
+
+Restoring Serial Port settings /dev/ttyUSB0... Success!
+Flushing serial device buffer... Success!
+Closing Serial Port /dev/ttyUSB0... Success!
+
+devLCKfile: </var/lock/LCK..ttyUSB0>
+devLCKfileNew: </var/lock/LCK..ttyUSB0.30024>
+Clearing Serial Port Lock (30024)... done.
+
+20200225-09:49:33: aurora: ERROR: Received bad return code (-1 59 1)
+
+Complete 20200225-09:49:33
+

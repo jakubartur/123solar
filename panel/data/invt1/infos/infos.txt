@@ -1,0 +1,13 @@
+
+Part Number: -3G97-
+
+Serial Number: 162505
+
+Firmware: C.0.3.4
+
+Manufacturing Date: Year 12 Week 39
+
+Inverter Version: -- PVI-3.6-OUTD --
+UK - UK G83 -- Transformerless Version -- Photovoltaic Version --
+
+System operating with both strings.
